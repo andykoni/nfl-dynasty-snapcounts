@@ -2,112 +2,95 @@
   "season": 2026,
   "week": 1,
   "updated_at": "14 Sep 2026",
+  "status": "Preview \u2014 automatic updater not yet run",
   "leagues": [
     "EGS PRO",
     "EGS SIM",
     "EGS SFX",
     "MLS Dynasty League"
   ],
-  "rows": [
+  "current": [
     {
+      "player_id": "sample1",
       "player": "Puka Nacua",
-      "pos": "WR",
+      "position": "WR",
       "team": "LAR",
-      "league": "EGS PRO",
       "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
       "snaps": 43,
       "pct": 70.5,
       "trend": 0
     },
     {
+      "player_id": "sample2",
       "player": "Colby Parkinson",
-      "pos": "TE",
+      "position": "TE",
       "team": "LAR",
-      "league": "EGS PRO",
       "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
       "snaps": 47,
       "pct": 77.1,
       "trend": 0
     },
     {
+      "player_id": "sample3",
       "player": "Jordan Whittington",
-      "pos": "WR",
+      "position": "WR",
       "team": "LAR",
-      "league": "EGS PRO",
       "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
       "snaps": 25,
       "pct": 41.0,
       "trend": -1
     },
     {
+      "player_id": "sample4",
       "player": "Jadarian Price",
-      "pos": "RB",
+      "position": "RB",
       "team": "SEA",
-      "league": "EGS PRO",
       "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
       "snaps": 24,
       "pct": 48.0,
       "trend": 0
     },
     {
+      "player_id": "sample5",
       "player": "Emanuel Wilson",
-      "pos": "RB",
+      "position": "RB",
       "team": "SEA",
-      "league": "EGS PRO",
       "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
       "snaps": 3,
       "pct": 6.0,
       "trend": -1
     },
     {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "team": "LAR",
-      "league": "EGS SIM",
-      "unit": "Offense",
-      "snaps": 43,
-      "pct": 70.5,
-      "trend": 0
-    },
-    {
-      "player": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "league": "EGS SIM",
-      "unit": "Offense",
-      "snaps": 47,
-      "pct": 77.1,
-      "trend": 0
-    },
-    {
+      "player_id": "sample6",
       "player": "Jonathan Taylor",
-      "pos": "RB",
+      "position": "RB",
       "team": "IND",
-      "league": "EGS PRO",
       "unit": "Offense",
-      "snaps": 52,
-      "pct": 71.2,
-      "trend": 1
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SIM",
-      "unit": "Offense",
-      "snaps": 52,
-      "pct": 71.2,
-      "trend": 1
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SFX",
-      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
       "snaps": 52,
       "pct": 71.2,
       "trend": 1
     }
-  ]
+  ],
+  "history": {}
 }

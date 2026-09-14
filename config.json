@@ -1,0 +1,29 @@
+{
+  "season": 2026,
+  "leagues": [
+    {
+      "name": "EGS PRO",
+      "league_id": "73667",
+      "franchise_id": "0013",
+      "url": "https://www47.myfantasyleague.com/2026/options?L=73667&F=0013&O=07"
+    },
+    {
+      "name": "EGS SIM",
+      "league_id": "67057",
+      "franchise_id": "0013",
+      "url": "https://www48.myfantasyleague.com/2026/options?L=67057&F=0013&O=07"
+    },
+    {
+      "name": "EGS SFX",
+      "league_id": "62923",
+      "franchise_id": "0004",
+      "url": "https://www48.myfantasyleague.com/2026/options?L=62923&F=0004&O=07"
+    },
+    {
+      "name": "MLS Dynasty League",
+      "league_id": "41969",
+      "franchise_id": "0019",
+      "url": "https://www45.myfantasyleague.com/2026/options?L=41969&F=0019&O=07"
+    }
+  ]
+}
