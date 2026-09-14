@@ -23,11 +23,11 @@ button,input,select{font:inherit}
 .big{font-size:29px;font-weight:800;letter-spacing:-.03em;margin-top:5px}
 .controls{margin:22px 0 14px;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:12px;display:flex;gap:8px;align-items:center;box-shadow:var(--shadow)}
 button,select,input{border:1px solid #d6dde8;background:#fff;border-radius:9px;padding:9px 12px;color:var(--text);outline:none}
-button{cursor:pointer;font-weight:650;transition:all .15s ease;user-select:none}
+button{cursor:pointer !important;font-weight:650;transition:all .15s ease;user-select:none}
 button:hover{background:#f1f4f8;border-color:#c4cedd;transform:translateY(-1px)}
 button:active{transform:translateY(0)}
 button.active{background:var(--navy);border-color:var(--navy);color:#fff;box-shadow:0 3px 8px rgba(24,35,56,.2)}
-select,input{cursor:pointer}
+select,input{cursor:pointer !important}
 input{cursor:text}.search{margin-left:auto;width:220px}.search::placeholder{color:#9aa5b6}
 .panel{background:var(--surface);border:1px solid var(--border);border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
 table{width:100%;border-collapse:collapse}
@@ -43,6 +43,8 @@ th:nth-child(n+5),td:nth-child(n+5){text-align:right}
 .footer{color:#7a8597;font-size:12px;margin-top:14px}
 @media(max-width:850px){.cards{grid-template-columns:repeat(2,1fr)}.wrap{padding:18px}.top{padding:22px 18px}.topin{align-items:flex-start}.search{margin-left:0;width:100%}.controls{flex-wrap:wrap}.bar{display:none}}
 @media(max-width:520px){.cards{grid-template-columns:1fr 1fr}.big{font-size:24px}table{min-width:760px}.panel{overflow-x:auto}}
+
+.league-pill{display:inline-block;background:#eef3ff;color:#315fb5;border:1px solid #d8e4ff;border-radius:6px;padding:3px 7px;margin:2px 2px;font-size:10.5px;font-weight:750}
 </style></head>
 <body>
 <div class="top"><div class="topin"><div><h1>NFL Dynasty Snap Dashboard</h1><div class="sub">Current MFL rosters × NFL snap usage</div></div><div class="live">● CURRENT ROSTER</div></div></div>

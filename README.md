@@ -1,15 +1,9 @@
-# NFL Dynasty Snap Dashboard
+# NFL Dynasty Snap Dashboard V4
 
-Live dashboard for four MFL dynasty teams.
+V4 improves the dashboard presentation and consolidates duplicate players in the **All leagues** view.
 
-## Automatic behaviour
-- MFL API is the source of truth for current rosters.
-- nflverse supplies weekly offensive, defensive and special-teams snaps.
-- The scheduled GitHub Action runs three times each Tuesday.
-- The main dashboard only displays players currently on the four rosters.
-- Dropped/traded players therefore disappear on the next refresh.
-- Historical NFL snap data is retained in `data.json` for the current-player trend view.
-- New MFL league URLs can be changed in `config.json` next season; the website URL stays the same.
+If a player is owned in EGS PRO, EGS SIM and EGS SFX, the player appears once and the Leagues column shows all three.
 
-## Sources
-MFL's export API supports current rosters by league/franchise. nflverse provides snap counts and cross-platform player IDs.
+League-specific filters continue to show the player in that selected league.
+
+The live architecture remains MFL current roster -> NFL snap data -> dashboard.
