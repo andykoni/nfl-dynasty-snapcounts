@@ -124,14 +124,22 @@ weekly = (
 # percentage weighted by the team's snap count. For dashboard purposes the
 # summed snap count divided by the summed estimated team snaps is equivalent.
 def weighted_pct(group, snap_col, pct_col):
-    s = pd.to_numeric(group[snap_col], errors="coerce").fillna(0).sum()
-    pct = pd.to_numeric(group[pct_col], errors="coerce").fillna(0)
+    pct = pd.to_numeric(group[pct_col], errors="coerce")
     snaps_taken = pd.to_numeric(group[snap_col], errors="coerce").fillna(0)
-    # Recover team snap denominator from snap/pct where possible.
-    denoms = snaps_taken / (pct / 100).replace(0, pd.NA)
-    denoms = denoms.dropna()
-    denom = denoms.sum() if len(denoms) else 0
-    return (s / denom * 100) if denom else None
+
+    valid = pct.notna() & (pct > 0) & (snaps_taken > 0)
+
+    if not valid.any():
+        return None
+
+    frac = pct.where(pct <= 1, pct / 100)
+
+    # The NFL snap percentage is already the player's share of team snaps.
+    # Use the weighted average of the game percentages.
+    weights = snaps_taken.where(valid, 0)
+    weighted = (frac.fillna(0) * weights).sum() / weights.sum()
+
+    return weighted * 100
 
 pct_rows = []
 for keys, g in snaps.groupby(["pfr_player_id", "week_num"]):
