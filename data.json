@@ -2,2218 +2,3106 @@
   "season": 2026,
   "week": 1,
   "updated_at": "Roster loaded 14 Sep 2026",
-  "rows": [
-    {
-      "player": "Joe Burrow",
-      "pos": "QB",
-      "team": "CIN",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Will Levis",
-      "pos": "QB",
-      "team": "FA",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "C.J. Stroud",
-      "pos": "QB",
-      "team": "HOU",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Braelon Allen",
-      "pos": "RB",
-      "team": "NYJ",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jadarian Price",
-      "pos": "RB",
-      "team": "SEA",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Rachaad White",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Luke McCaffrey",
-      "pos": "WR",
-      "team": "WAS",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAC",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Puka Nacua",
-      "pos": "WR",
-      "team": "LAR",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jordan Whittington",
-      "pos": "WR",
-      "team": "LAR",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Sam LaPorta",
-      "pos": "TE",
-      "team": "DET",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Christian Barmore",
-      "pos": "DT",
-      "team": "NEP",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "B.J. Hill",
-      "pos": "DT",
-      "team": "CIN",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ed Oliver",
-      "pos": "DT",
-      "team": "BUF",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "YaYa Diaby",
-      "pos": "DE",
-      "team": "TBB",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Trey Hendrickson",
-      "pos": "DE",
-      "team": "BAL",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jermaine Johnson",
-      "pos": "DE",
-      "team": "TEN",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Laiatu Latu",
-      "pos": "DE",
-      "team": "IND",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kayvon Thibodeaux",
-      "pos": "DE",
-      "team": "NYG",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Travon Walker",
-      "pos": "DE",
-      "team": "JAC",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Divine Deablo",
-      "pos": "LB",
-      "team": "ATL",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tremaine Edmunds",
-      "pos": "LB",
-      "team": "NYG",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Henry To'oTo'o",
-      "pos": "LB",
-      "team": "HOU",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Payton Wilson",
-      "pos": "LB",
-      "team": "PIT",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Cooper DeJean",
-      "pos": "CB",
-      "team": "PHI",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Andru Phillips",
-      "pos": "CB",
-      "team": "NYG",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Chau Smith-Wade",
-      "pos": "CB",
-      "team": "CAR",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jeremy Chinn",
-      "pos": "S",
-      "team": "LVR",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Andre Cisco",
-      "pos": "S",
-      "team": "NYJ",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "A.J. Haulcy",
-      "pos": "S",
-      "team": "IND",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Malik Mustapha",
-      "pos": "S",
-      "team": "SFO",
-      "league": "EGS PRO",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Isiah Pacheco",
-      "pos": "RB",
-      "team": "DET",
-      "league": "EGS PRO",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jayden Higgins",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "EGS PRO",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kerby Joseph",
-      "pos": "S",
-      "team": "DET",
-      "league": "EGS PRO",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tyler Shough",
-      "pos": "QB",
-      "team": "NOS",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "DJ Giddens",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ollie Gordon",
-      "pos": "RB",
-      "team": "MIA",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tre Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ted Hurst",
-      "pos": "WR",
-      "team": "TBB",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jaylin Lane",
-      "pos": "WR",
-      "team": "WAS",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonah Elliss",
-      "pos": "DE",
-      "team": "DEN",
-      "league": "EGS PRO",
-      "status": "Taxi",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jalen Hurts",
-      "pos": "QB",
-      "team": "PHI",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Lamar Jackson",
-      "pos": "QB",
-      "team": "BAL",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Will Levis",
-      "pos": "QB",
-      "team": "FA",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Anthony Richardson",
-      "pos": "QB",
-      "team": "IND",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Braelon Allen",
-      "pos": "RB",
-      "team": "NYJ",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "DJ Giddens",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ollie Gordon",
-      "pos": "RB",
-      "team": "MIA",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Dylan Laube",
-      "pos": "RB",
-      "team": "LVR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Rachaad White",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Nico Collins",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Romeo Doubs",
-      "pos": "WR",
-      "team": "NEP",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ted Hurst",
-      "pos": "WR",
-      "team": "TBB",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Bryce Lance",
-      "pos": "WR",
-      "team": "NOS",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAC",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Mooney",
-      "pos": "WR",
-      "team": "NYG",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jordan Whittington",
-      "pos": "WR",
-      "team": "LAR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Noah Fant",
-      "pos": "TE",
-      "team": "NOS",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Sam LaPorta",
-      "pos": "TE",
-      "team": "DET",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kyle Pitts",
-      "pos": "TE",
-      "team": "ATL",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonnu Smith",
-      "pos": "TE",
-      "team": "GBP",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Christian Barmore",
-      "pos": "DT",
-      "team": "NEP",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Chris Jones",
-      "pos": "DT",
-      "team": "KCC",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Travis Jones",
-      "pos": "DT",
-      "team": "BAL",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ed Oliver",
-      "pos": "DT",
-      "team": "BUF",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Felix Anudike-Uzomah",
-      "pos": "DE",
-      "team": "KCC",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "YaYa Diaby",
-      "pos": "DE",
-      "team": "TBB",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kwity Paye",
-      "pos": "DE",
-      "team": "LVR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Montez Sweat",
-      "pos": "DE",
-      "team": "CHI",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kayvon Thibodeaux",
-      "pos": "DE",
-      "team": "NYG",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tatum Bethune",
-      "pos": "LB",
-      "team": "SFO",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Divine Deablo",
-      "pos": "LB",
-      "team": "ATL",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "SirVocea Dennis",
-      "pos": "LB",
-      "team": "TBB",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Zaire Franklin",
-      "pos": "LB",
-      "team": "GBP",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Christian Harris",
-      "pos": "LB",
-      "team": "ATL",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Francisco Mauigoa",
-      "pos": "LB",
-      "team": "NYJ",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Eric Wilson",
-      "pos": "LB",
-      "team": "MIN",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Daxton Hill",
-      "pos": "CB",
-      "team": "CIN",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darien Porter",
-      "pos": "CB",
-      "team": "LVR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Amik Robertson",
-      "pos": "CB",
-      "team": "WAS",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Chau Smith-Wade",
-      "pos": "CB",
-      "team": "CAR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Zayne Anderson",
-      "pos": "S",
-      "team": "MIA",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ji'Ayir Brown",
-      "pos": "S",
-      "team": "SFO",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Andre Cisco",
-      "pos": "S",
-      "team": "NYJ",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Nick Scott",
-      "pos": "S",
-      "team": "CAR",
-      "league": "EGS SIM",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Trey Benson",
-      "pos": "RB",
-      "team": "ARI",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Isiah Pacheco",
-      "pos": "RB",
-      "team": "DET",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jayden Higgins",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ricky Pearsall",
-      "pos": "WR",
-      "team": "SFO",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Savion Williams",
-      "pos": "WR",
-      "team": "GBP",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jer'Zhan Newton",
-      "pos": "DT",
-      "team": "WAS",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "DeShon Elliott",
-      "pos": "S",
-      "team": "PIT",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kerby Joseph",
-      "pos": "S",
-      "team": "DET",
-      "league": "EGS SIM",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Joe Burrow",
-      "pos": "QB",
-      "team": "CIN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Justin Herbert",
-      "pos": "QB",
-      "team": "LAC",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Will Levis",
-      "pos": "QB",
-      "team": "FA",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tyler Shough",
-      "pos": "QB",
-      "team": "NOS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ty Simpson",
-      "pos": "QB",
-      "team": "LAR",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Braelon Allen",
-      "pos": "RB",
-      "team": "NYJ",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jacory Croskey-Merritt",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "DJ Giddens",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "George Holani",
-      "pos": "RB",
-      "team": "SEA",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonathan Taylor",
-      "pos": "RB",
-      "team": "IND",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Rachaad White",
-      "pos": "RB",
-      "team": "WAS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Cyrus Allen",
-      "pos": "WR",
-      "team": "KCC",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Nico Collins",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Chimere Dike",
-      "pos": "WR",
-      "team": "TEN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Romeo Doubs",
-      "pos": "WR",
-      "team": "NEP",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Bryce Lance",
-      "pos": "WR",
-      "team": "NOS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Luke McCaffrey",
-      "pos": "WR",
-      "team": "WAS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jakobi Meyers",
-      "pos": "WR",
-      "team": "JAC",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jaylin Noel",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Zavion Thomas",
-      "pos": "WR",
-      "team": "CHI",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Devaughn Vele",
-      "pos": "WR",
-      "team": "NOS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kyle Williams",
-      "pos": "WR",
-      "team": "NEP",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Mark Andrews",
-      "pos": "TE",
-      "team": "BAL",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kyle Pitts",
-      "pos": "TE",
-      "team": "ATL",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ed Oliver",
-      "pos": "DT",
-      "team": "BUF",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Quinnen Williams",
-      "pos": "DT",
-      "team": "DAL",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonah Elliss",
-      "pos": "DE",
-      "team": "DEN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Trey Hendrickson",
-      "pos": "DE",
-      "team": "BAL",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jermaine Johnson",
-      "pos": "DE",
-      "team": "TEN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "George Karlaftis",
-      "pos": "DE",
-      "team": "KCC",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Montez Sweat",
-      "pos": "DE",
-      "team": "CHI",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Nick Bolton",
-      "pos": "LB",
-      "team": "KCC",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Divine Deablo",
-      "pos": "LB",
-      "team": "ATL",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tremaine Edmunds",
-      "pos": "LB",
-      "team": "NYG",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Devin Lloyd",
-      "pos": "LB",
-      "team": "CAR",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Eric Wilson",
-      "pos": "LB",
-      "team": "MIN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Paulson Adebo",
-      "pos": "CB",
-      "team": "NYG",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Daxton Hill",
-      "pos": "CB",
-      "team": "CIN",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Chau Smith-Wade",
-      "pos": "CB",
-      "team": "CAR",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Minkah Fitzpatrick",
-      "pos": "S",
-      "team": "NYJ",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "A.J. Haulcy",
-      "pos": "S",
-      "team": "IND",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jalen Pitre",
-      "pos": "S",
-      "team": "HOU",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jeremy Reaves",
-      "pos": "S",
-      "team": "WAS",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Nick Scott",
-      "pos": "S",
-      "team": "CAR",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Evan Williams",
-      "pos": "S",
-      "team": "GBP",
-      "league": "EGS SFX",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Isiah Pacheco",
-      "pos": "RB",
-      "team": "DET",
-      "league": "EGS SFX",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Savion Williams",
-      "pos": "WR",
-      "team": "GBP",
-      "league": "EGS SFX",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Luke Musgrave",
-      "pos": "TE",
-      "team": "GBP",
-      "league": "EGS SFX",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Brian Branch",
-      "pos": "S",
-      "team": "DET",
-      "league": "EGS SFX",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kerby Joseph",
-      "pos": "S",
-      "team": "DET",
-      "league": "EGS SFX",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tyson Bagent",
-      "pos": "QB",
-      "team": "CHI",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Will Levis",
-      "pos": "QB",
-      "team": "FA",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Michael Penix Jr",
-      "pos": "QB",
-      "team": "ATL",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Brock Purdy",
-      "pos": "QB",
-      "team": "SFO",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "De'Von Achane",
-      "pos": "RB",
-      "team": "MIA",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "DJ Giddens",
-      "pos": "RB",
-      "team": "IND",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ollie Gordon",
-      "pos": "RB",
-      "team": "MIA",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kareem Hunt",
-      "pos": "RB",
-      "team": "FA",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Dylan Laube",
-      "pos": "RB",
-      "team": "LVR",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tre Harris",
-      "pos": "WR",
-      "team": "LAC",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ted Hurst",
-      "pos": "WR",
-      "team": "TBB",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Luke McCaffrey",
-      "pos": "WR",
-      "team": "WAS",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ladd McConkey",
-      "pos": "WR",
-      "team": "LAC",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Zavion Thomas",
-      "pos": "WR",
-      "team": "CHI",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Cedric Tillman",
-      "pos": "WR",
-      "team": "NOS",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kyle Williams",
-      "pos": "WR",
-      "team": "NEP",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Harold Fannin",
-      "pos": "TE",
-      "team": "CLE",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Colby Parkinson",
-      "pos": "TE",
-      "team": "LAR",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Darnell Washington",
-      "pos": "TE",
-      "team": "PIT",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Christian Barmore",
-      "pos": "DT",
-      "team": "NEP",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Felix Anudike-Uzomah",
-      "pos": "DE",
-      "team": "KCC",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Abdul Carter",
-      "pos": "DE",
-      "team": "NYG",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jonah Elliss",
-      "pos": "DE",
-      "team": "DEN",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Joseph Ossai",
-      "pos": "DE",
-      "team": "NYJ",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "D.J. Wonnum",
-      "pos": "DE",
-      "team": "DET",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "SirVocea Dennis",
-      "pos": "LB",
-      "team": "TBB",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Tremaine Edmunds",
-      "pos": "LB",
-      "team": "NYG",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Malcolm Rodriguez",
-      "pos": "LB",
-      "team": "DET",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Carson Schwesinger",
-      "pos": "LB",
-      "team": "CLE",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Payton Wilson",
-      "pos": "LB",
-      "team": "PIT",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Cooper DeJean",
-      "pos": "CB",
-      "team": "PHI",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Andre Cisco",
-      "pos": "S",
-      "team": "NYJ",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Isaiah Pola-Mao",
-      "pos": "S",
-      "team": "LVR",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jeremy Reaves",
-      "pos": "S",
-      "team": "WAS",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Evan Williams",
-      "pos": "S",
-      "team": "GBP",
-      "league": "MLS Dynasty League",
-      "status": "Active",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jayden Higgins",
-      "pos": "WR",
-      "team": "HOU",
-      "league": "MLS Dynasty League",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Ricky Pearsall",
-      "pos": "WR",
-      "team": "SFO",
-      "league": "MLS Dynasty League",
-      "status": "IR",
-      "unit": "Offense",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Jer'Zhan Newton",
-      "pos": "DT",
-      "team": "WAS",
-      "league": "MLS Dynasty League",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    },
-    {
-      "player": "Kerby Joseph",
-      "pos": "S",
-      "team": "DET",
-      "league": "MLS Dynasty League",
-      "status": "IR",
-      "unit": "IDP",
-      "snaps": null,
-      "pct": null,
-      "trend": null
-    }
+  "status": "Roster preview \u2014 run GitHub Action for live snaps",
+  "leagues": [
+    "EGS PRO",
+    "EGS SFX",
+    "EGS SIM",
+    "MLS Dynasty League"
   ],
-  "note": "Complete current roster view. Snap fields will populate from the automated NFL data pull."
+  "current": [
+    {
+      "player_id": "preview-1",
+      "player": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-2",
+      "player": "Will Levis",
+      "position": "QB",
+      "team": "FA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-3",
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-4",
+      "player": "Braelon Allen",
+      "position": "RB",
+      "team": "NYJ",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-5",
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-6",
+      "player": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-7",
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-8",
+      "player": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-9",
+      "player": "Emanuel Wilson",
+      "position": "RB",
+      "team": "SEA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-10",
+      "player": "Luke McCaffrey",
+      "position": "WR",
+      "team": "WAS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-11",
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAC",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-12",
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "team": "NYG",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-13",
+      "player": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-14",
+      "player": "Malik Washington",
+      "position": "WR",
+      "team": "MIA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-15",
+      "player": "Jordan Whittington",
+      "position": "WR",
+      "team": "LAR",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-16",
+      "player": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-17",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "team": "DET",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-18",
+      "player": "Colby Parkinson",
+      "position": "TE",
+      "team": "LAR",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-19",
+      "player": "Darnell Washington",
+      "position": "TE",
+      "team": "PIT",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-20",
+      "player": "Christian Barmore",
+      "position": "DT",
+      "team": "NEP",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-21",
+      "player": "B.J. Hill",
+      "position": "DT",
+      "team": "CIN",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-22",
+      "player": "Ed Oliver",
+      "position": "DT",
+      "team": "BUF",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-23",
+      "player": "YaYa Diaby",
+      "position": "DE",
+      "team": "TBB",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-24",
+      "player": "Trey Hendrickson",
+      "position": "DE",
+      "team": "BAL",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-25",
+      "player": "Jermaine Johnson",
+      "position": "DE",
+      "team": "TEN",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-26",
+      "player": "Laiatu Latu",
+      "position": "DE",
+      "team": "IND",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-27",
+      "player": "Kayvon Thibodeaux",
+      "position": "DE",
+      "team": "NYG",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-28",
+      "player": "Travon Walker",
+      "position": "DE",
+      "team": "JAC",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-29",
+      "player": "Divine Deablo",
+      "position": "LB",
+      "team": "ATL",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-30",
+      "player": "Tremaine Edmunds",
+      "position": "LB",
+      "team": "NYG",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-31",
+      "player": "Henry To'oTo'o",
+      "position": "LB",
+      "team": "HOU",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-32",
+      "player": "Payton Wilson",
+      "position": "LB",
+      "team": "PIT",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-33",
+      "player": "Cooper DeJean",
+      "position": "CB",
+      "team": "PHI",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-34",
+      "player": "Andru Phillips",
+      "position": "CB",
+      "team": "NYG",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-35",
+      "player": "Chau Smith-Wade",
+      "position": "CB",
+      "team": "CAR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-36",
+      "player": "Jeremy Chinn",
+      "position": "S",
+      "team": "LVR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-37",
+      "player": "Andre Cisco",
+      "position": "S",
+      "team": "NYJ",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-38",
+      "player": "A.J. Haulcy",
+      "position": "S",
+      "team": "IND",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-39",
+      "player": "Malik Mustapha",
+      "position": "S",
+      "team": "SFO",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-40",
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "team": "DET",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-41",
+      "player": "Jayden Higgins",
+      "position": "WR",
+      "team": "HOU",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-42",
+      "player": "Kerby Joseph",
+      "position": "S",
+      "team": "DET",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-43",
+      "player": "Tyler Shough",
+      "position": "QB",
+      "team": "NOS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-44",
+      "player": "DJ Giddens",
+      "position": "RB",
+      "team": "IND",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-45",
+      "player": "Ollie Gordon",
+      "position": "RB",
+      "team": "MIA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-46",
+      "player": "Tre Harris",
+      "position": "WR",
+      "team": "LAC",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-47",
+      "player": "Ted Hurst",
+      "position": "WR",
+      "team": "TBB",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-48",
+      "player": "Jaylin Lane",
+      "position": "WR",
+      "team": "WAS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-49",
+      "player": "Jonah Elliss",
+      "position": "DE",
+      "team": "DEN",
+      "unit": "IDP",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-50",
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-51",
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-52",
+      "player": "Anthony Richardson",
+      "position": "QB",
+      "team": "IND",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-53",
+      "player": "Dylan Laube",
+      "position": "RB",
+      "team": "LVR",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-54",
+      "player": "Nico Collins",
+      "position": "WR",
+      "team": "HOU",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-55",
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "team": "NEP",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-56",
+      "player": "Bryce Lance",
+      "position": "WR",
+      "team": "NOS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-57",
+      "player": "Noah Fant",
+      "position": "TE",
+      "team": "NOS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-58",
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "team": "ATL",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-59",
+      "player": "Jonnu Smith",
+      "position": "TE",
+      "team": "GBP",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-60",
+      "player": "Chris Jones",
+      "position": "DT",
+      "team": "KCC",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-61",
+      "player": "Travis Jones",
+      "position": "DT",
+      "team": "BAL",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-62",
+      "player": "Felix Anudike-Uzomah",
+      "position": "DE",
+      "team": "KCC",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-63",
+      "player": "Kwity Paye",
+      "position": "DE",
+      "team": "LVR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-64",
+      "player": "Montez Sweat",
+      "position": "DE",
+      "team": "CHI",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-65",
+      "player": "Tatum Bethune",
+      "position": "LB",
+      "team": "SFO",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-66",
+      "player": "SirVocea Dennis",
+      "position": "LB",
+      "team": "TBB",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-67",
+      "player": "Zaire Franklin",
+      "position": "LB",
+      "team": "GBP",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-68",
+      "player": "Christian Harris",
+      "position": "LB",
+      "team": "ATL",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-69",
+      "player": "Francisco Mauigoa",
+      "position": "LB",
+      "team": "NYJ",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-70",
+      "player": "Eric Wilson",
+      "position": "LB",
+      "team": "MIN",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-71",
+      "player": "Daxton Hill",
+      "position": "CB",
+      "team": "CIN",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-72",
+      "player": "Darien Porter",
+      "position": "CB",
+      "team": "LVR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-73",
+      "player": "Amik Robertson",
+      "position": "CB",
+      "team": "WAS",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-74",
+      "player": "Zayne Anderson",
+      "position": "S",
+      "team": "MIA",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-75",
+      "player": "Ji'Ayir Brown",
+      "position": "S",
+      "team": "SFO",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-76",
+      "player": "Nick Scott",
+      "position": "S",
+      "team": "CAR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-77",
+      "player": "Trey Benson",
+      "position": "RB",
+      "team": "ARI",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-78",
+      "player": "Ricky Pearsall",
+      "position": "WR",
+      "team": "SFO",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-79",
+      "player": "Savion Williams",
+      "position": "WR",
+      "team": "GBP",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-80",
+      "player": "Jer'Zhan Newton",
+      "position": "DT",
+      "team": "WAS",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-81",
+      "player": "DeShon Elliott",
+      "position": "S",
+      "team": "PIT",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-82",
+      "player": "Tyson Bagent",
+      "position": "QB",
+      "team": "CHI",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-83",
+      "player": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-84",
+      "player": "Ty Simpson",
+      "position": "QB",
+      "team": "LAR",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-85",
+      "player": "George Holani",
+      "position": "RB",
+      "team": "SEA",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-86",
+      "player": "Cyrus Allen",
+      "position": "WR",
+      "team": "KCC",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-87",
+      "player": "Chimere Dike",
+      "position": "WR",
+      "team": "TEN",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-88",
+      "player": "Jaylin Noel",
+      "position": "WR",
+      "team": "HOU",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-89",
+      "player": "Zavion Thomas",
+      "position": "WR",
+      "team": "CHI",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-90",
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "team": "NOS",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-91",
+      "player": "Kyle Williams",
+      "position": "WR",
+      "team": "NEP",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-92",
+      "player": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-93",
+      "player": "Quinnen Williams",
+      "position": "DT",
+      "team": "DAL",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-94",
+      "player": "George Karlaftis",
+      "position": "DE",
+      "team": "KCC",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-95",
+      "player": "Nick Bolton",
+      "position": "LB",
+      "team": "KCC",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-96",
+      "player": "Devin Lloyd",
+      "position": "LB",
+      "team": "CAR",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-97",
+      "player": "Paulson Adebo",
+      "position": "CB",
+      "team": "NYG",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-98",
+      "player": "Minkah Fitzpatrick",
+      "position": "S",
+      "team": "NYJ",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-99",
+      "player": "Jalen Pitre",
+      "position": "S",
+      "team": "HOU",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-100",
+      "player": "Jeremy Reaves",
+      "position": "S",
+      "team": "WAS",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-101",
+      "player": "Evan Williams",
+      "position": "S",
+      "team": "GBP",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-102",
+      "player": "Luke Musgrave",
+      "position": "TE",
+      "team": "GBP",
+      "unit": "Offense",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-103",
+      "player": "Brian Branch",
+      "position": "S",
+      "team": "DET",
+      "unit": "IDP",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-104",
+      "player": "Michael Penix Jr",
+      "position": "QB",
+      "team": "ATL",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-105",
+      "player": "Brock Purdy",
+      "position": "QB",
+      "team": "SFO",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-106",
+      "player": "De'Von Achane",
+      "position": "RB",
+      "team": "MIA",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-107",
+      "player": "Kareem Hunt",
+      "position": "RB",
+      "team": "FA",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-108",
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-109",
+      "player": "Cedric Tillman",
+      "position": "WR",
+      "team": "NOS",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-110",
+      "player": "Harold Fannin",
+      "position": "TE",
+      "team": "CLE",
+      "unit": "Offense",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-111",
+      "player": "Abdul Carter",
+      "position": "DE",
+      "team": "NYG",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-112",
+      "player": "Joseph Ossai",
+      "position": "DE",
+      "team": "NYJ",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-113",
+      "player": "D.J. Wonnum",
+      "position": "DE",
+      "team": "DET",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-114",
+      "player": "Malcolm Rodriguez",
+      "position": "LB",
+      "team": "DET",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-115",
+      "player": "Carson Schwesinger",
+      "position": "LB",
+      "team": "CLE",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "preview-116",
+      "player": "Isaiah Pola-Mao",
+      "position": "S",
+      "team": "LVR",
+      "unit": "IDP",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    }
+  ]
 }
