@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-14T09:17:07Z",
+  "updated_at": "2026-09-14T09:28:30Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -211,9 +211,9 @@
       ],
       "pfr_id": "WilsEm00",
       "snaps": 3,
-      "pct": 0.06,
-      "avg_3wk": 0.1,
-      "season_avg": 0.1,
+      "pct": 6.0,
+      "avg_3wk": 6.0,
+      "season_avg": 6.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -221,7 +221,7 @@
           "week": 1,
           "team": "SEA",
           "offense_snaps": 3,
-          "offense_pct": 0.06,
+          "offense_pct": 6.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -275,9 +275,9 @@
       ],
       "pfr_id": "NacuPu00",
       "snaps": 43,
-      "pct": 0.7,
-      "avg_3wk": 0.7,
-      "season_avg": 0.7,
+      "pct": 70.0,
+      "avg_3wk": 70.0,
+      "season_avg": 70.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -285,7 +285,7 @@
           "week": 1,
           "team": "LA",
           "offense_snaps": 43,
-          "offense_pct": 0.7,
+          "offense_pct": 70.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -349,9 +349,9 @@
       ],
       "pfr_id": "BarmCh00",
       "snaps": 30,
-      "pct": 0.6,
-      "avg_3wk": 0.6,
-      "season_avg": 0.6,
+      "pct": 60.0,
+      "avg_3wk": 60.0,
+      "season_avg": 60.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -361,9 +361,9 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 30,
-          "defense_pct": 0.6,
+          "defense_pct": 60.0,
           "st_snaps": 6,
-          "st_pct": 0.27
+          "st_pct": 27.0
         }
       ]
     },
@@ -442,9 +442,9 @@
       ],
       "pfr_id": "WhitJo04",
       "snaps": 25,
-      "pct": 0.41,
-      "avg_3wk": 0.4,
-      "season_avg": 0.4,
+      "pct": 41.0,
+      "avg_3wk": 41.0,
+      "season_avg": 41.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -452,11 +452,11 @@
           "week": 1,
           "team": "LA",
           "offense_snaps": 25,
-          "offense_pct": 0.41,
+          "offense_pct": 41.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 13,
-          "st_pct": 0.65
+          "st_pct": 65.0
         }
       ]
     },
@@ -569,9 +569,9 @@
       ],
       "pfr_id": "MustMa00",
       "snaps": 6,
-      "pct": 0.1,
-      "avg_3wk": 0.1,
-      "season_avg": 0.1,
+      "pct": 10.0,
+      "avg_3wk": 10.0,
+      "season_avg": 10.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -581,9 +581,9 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 6,
-          "defense_pct": 0.1,
+          "defense_pct": 10.0,
           "st_snaps": 10,
-          "st_pct": 0.5
+          "st_pct": 50.0
         }
       ]
     },
@@ -643,9 +643,9 @@
       ],
       "pfr_id": "ParkCo02",
       "snaps": 47,
-      "pct": 0.77,
-      "avg_3wk": 0.8,
-      "season_avg": 0.8,
+      "pct": 77.0,
+      "avg_3wk": 77.0,
+      "season_avg": 77.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -653,11 +653,11 @@
           "week": 1,
           "team": "LA",
           "offense_snaps": 47,
-          "offense_pct": 0.77,
+          "offense_pct": 77.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 1,
-          "st_pct": 0.05
+          "st_pct": 5.0
         }
       ]
     },
@@ -1153,9 +1153,9 @@
       ],
       "pfr_id": "PricJa02",
       "snaps": 24,
-      "pct": 0.48,
-      "avg_3wk": 0.5,
-      "season_avg": 0.5,
+      "pct": 48.0,
+      "avg_3wk": 48.0,
+      "season_avg": 48.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -1163,7 +1163,7 @@
           "week": 1,
           "team": "SEA",
           "offense_snaps": 24,
-          "offense_pct": 0.48,
+          "offense_pct": 48.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -1726,9 +1726,9 @@
       ],
       "pfr_id": "DoubRo00",
       "snaps": 40,
-      "pct": 0.56,
-      "avg_3wk": 0.6,
-      "season_avg": 0.6,
+      "pct": 56.0,
+      "avg_3wk": 56.0,
+      "season_avg": 56.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -1736,7 +1736,7 @@
           "week": 1,
           "team": "NE",
           "offense_snaps": 40,
-          "offense_pct": 0.56,
+          "offense_pct": 56.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -1886,9 +1886,9 @@
       ],
       "pfr_id": "BrowJi01",
       "snaps": 55,
-      "pct": 0.9,
-      "avg_3wk": 0.9,
-      "season_avg": 0.9,
+      "pct": 90.0,
+      "avg_3wk": 90.0,
+      "season_avg": 90.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -1898,9 +1898,9 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 55,
-          "defense_pct": 0.9,
+          "defense_pct": 90.0,
           "st_snaps": 7,
-          "st_pct": 0.35
+          "st_pct": 35.0
         }
       ]
     },
@@ -2643,9 +2643,9 @@
       ],
       "pfr_id": "WillKy03",
       "snaps": 12,
-      "pct": 0.17,
-      "avg_3wk": 0.2,
-      "season_avg": 0.2,
+      "pct": 17.0,
+      "avg_3wk": 17.0,
+      "season_avg": 17.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -2653,11 +2653,11 @@
           "week": 1,
           "team": "NE",
           "offense_snaps": 12,
-          "offense_pct": 0.17,
+          "offense_pct": 17.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 4,
-          "st_pct": 0.18
+          "st_pct": 18.0
         }
       ]
     },
@@ -2914,9 +2914,9 @@
       ],
       "pfr_id": "HolaGe00",
       "snaps": 23,
-      "pct": 0.46,
-      "avg_3wk": 0.5,
-      "season_avg": 0.5,
+      "pct": 46.0,
+      "avg_3wk": 46.0,
+      "season_avg": 46.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -2924,11 +2924,11 @@
           "week": 1,
           "team": "SEA",
           "offense_snaps": 23,
-          "offense_pct": 0.46,
+          "offense_pct": 46.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 9,
-          "st_pct": 0.41
+          "st_pct": 41.0
         }
       ]
     },
@@ -3237,9 +3237,9 @@
       ],
       "pfr_id": "PurdBr00",
       "snaps": 65,
-      "pct": 1.0,
-      "avg_3wk": 1.0,
-      "season_avg": 1.0,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
       "history": [
@@ -3247,7 +3247,7 @@
           "week": 1,
           "team": "SF",
           "offense_snaps": 65,
-          "offense_pct": 1.0,
+          "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
