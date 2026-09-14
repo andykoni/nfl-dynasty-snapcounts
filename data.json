@@ -1,0 +1,113 @@
+{
+  "season": 2026,
+  "week": 1,
+  "updated_at": "14 Sep 2026",
+  "leagues": [
+    "EGS PRO",
+    "EGS SIM",
+    "EGS SFX",
+    "MLS Dynasty League"
+  ],
+  "rows": [
+    {
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "team": "LAR",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 43,
+      "pct": 70.5,
+      "trend": 0
+    },
+    {
+      "player": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 47,
+      "pct": 77.1,
+      "trend": 0
+    },
+    {
+      "player": "Jordan Whittington",
+      "pos": "WR",
+      "team": "LAR",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 25,
+      "pct": 41.0,
+      "trend": -1
+    },
+    {
+      "player": "Jadarian Price",
+      "pos": "RB",
+      "team": "SEA",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 24,
+      "pct": 48.0,
+      "trend": 0
+    },
+    {
+      "player": "Emanuel Wilson",
+      "pos": "RB",
+      "team": "SEA",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 3,
+      "pct": 6.0,
+      "trend": -1
+    },
+    {
+      "player": "Puka Nacua",
+      "pos": "WR",
+      "team": "LAR",
+      "league": "EGS SIM",
+      "unit": "Offense",
+      "snaps": 43,
+      "pct": 70.5,
+      "trend": 0
+    },
+    {
+      "player": "Colby Parkinson",
+      "pos": "TE",
+      "team": "LAR",
+      "league": "EGS SIM",
+      "unit": "Offense",
+      "snaps": 47,
+      "pct": 77.1,
+      "trend": 0
+    },
+    {
+      "player": "Jonathan Taylor",
+      "pos": "RB",
+      "team": "IND",
+      "league": "EGS PRO",
+      "unit": "Offense",
+      "snaps": 52,
+      "pct": 71.2,
+      "trend": 1
+    },
+    {
+      "player": "Jonathan Taylor",
+      "pos": "RB",
+      "team": "IND",
+      "league": "EGS SIM",
+      "unit": "Offense",
+      "snaps": 52,
+      "pct": 71.2,
+      "trend": 1
+    },
+    {
+      "player": "Jonathan Taylor",
+      "pos": "RB",
+      "team": "IND",
+      "league": "EGS SFX",
+      "unit": "Offense",
+      "snaps": 52,
+      "pct": 71.2,
+      "trend": 1
+    }
+  ]
+}

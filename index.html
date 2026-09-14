@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NFL Dynasty Snap Dashboard</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f5f7fb;color:#172033;font-family:Inter,Arial,sans-serif}
+.top{background:#111827;color:white;padding:28px 34px}.topin{max-width:1250px;margin:auto;display:flex;justify-content:space-between;align-items:center}.top h1{margin:0;font-size:27px}.top p{margin:5px 0 0;color:#aeb8ca}.live{background:#173b2c;border:1px solid #286044;color:#a7e4c3;padding:8px 12px;border-radius:20px;font-size:13px}
+.wrap{max-width:1250px;margin:auto;padding:25px 34px}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.card{background:white;border:1px solid #e1e6ef;border-radius:12px;padding:17px}.small{font-size:12px;color:#718096;text-transform:uppercase}.big{font-size:28px;font-weight:750;margin-top:4px}
+.controls{margin:20px 0 14px;background:white;border:1px solid #e1e6ef;border-radius:12px;padding:13px;display:flex;gap:9px;flex-wrap:wrap}
+button,select,input{font:inherit;border:1px solid #d6dce7;background:white;border-radius:8px;padding:9px 11px;color:#172033}button.active{background:#172033;color:white}.search{margin-left:auto}
+.panel{background:white;border:1px solid #e1e6ef;border-radius:12px;overflow:hidden}table{width:100%;border-collapse:collapse}th{background:#f8fafc;text-align:left;color:#718096;font-size:11px;text-transform:uppercase;padding:12px}td{padding:13px 12px;border-top:1px solid #edf0f5}th:nth-child(n+5),td:nth-child(n+5){text-align:right}.bar{width:110px;height:7px;background:#e8edf4;border-radius:8px;display:inline-block;vertical-align:middle;margin-left:8px;overflow:hidden}.fill{height:100%;background:#4b78c2}.up{color:#21844d;font-weight:bold}.down{color:#c24141;font-weight:bold}.tag{font-size:11px;background:#eef2f7;border-radius:5px;padding:3px 6px}.footer{color:#718096;font-size:12px;margin-top:14px}
+@media(max-width:800px){.cards{grid-template-columns:repeat(2,1fr)}.wrap{padding:18px}.top{padding:22px}.search{margin-left:0;width:100%}.bar{display:none}}
+</style></head>
+<body>
+<div class="top"><div class="topin"><div><h1>NFL Dynasty Snap Dashboard</h1><p>Your current MFL rosters × NFL snap usage</p></div><div class="live">● LIVE ROSTER</div></div></div>
+<div class="wrap">
+<div class="cards">
+<div class="card"><div class="small">Current players</div><div class="big" id="players">—</div></div>
+<div class="card"><div class="small">Rising roles</div><div class="big" id="rising">—</div></div>
+<div class="card"><div class="small">Falling roles</div><div class="big" id="falling">—</div></div>
+<div class="card"><div class="small">Latest week</div><div class="big">Week 1</div></div>
+</div>
+<div class="controls">
+<button class="active" data-unit="All">All</button><button data-unit="Offense">Offense</button><button data-unit="IDP">IDP</button>
+<select id="league"><option>All leagues</option></select><input class="search" id="search" placeholder="Search player…">
+</div>
+<div class="panel"><table><thead><tr><th>Player</th><th>Pos</th><th>NFL</th><th>League</th><th>Snaps</th><th>Snap %</th><th>Trend</th></tr></thead><tbody id="rows"></tbody></table></div>
+<div class="footer">Updated 14 Sep 2026 · In the live version this table is rebuilt from your current MFL rosters, so dropped players disappear automatically.</div>
+</div>
+<script>
+fetch('data.json').then(x=>x.json()).then(D=>{
+const league=document.getElementById('league'); D.leagues.forEach(x=>{let o=document.createElement('option');o.textContent=x;league.appendChild(o)});
+document.getElementById('players').textContent=new Set(D.rows.map(x=>x.player)).size;
+document.getElementById('rising').textContent=D.rows.filter(x=>x.trend>0).length;
+document.getElementById('falling').textContent=D.rows.filter(x=>x.trend<0).length;
+let unit='All';
+document.querySelectorAll('button').forEach(b=>b.onclick=()=>{document.querySelectorAll('button').forEach(x=>x.classList.remove('active'));b.classList.add('active');unit=b.dataset.unit;render()});
+[league,document.getElementById('search')].forEach(x=>x.oninput=render);
+function render(){let q=document.getElementById('search').value.toLowerCase(),l=league.value;
+let a=D.rows.filter(x=>(unit==='All'||x.unit===unit)&&(!l||l==='All leagues'||x.league===l)&&x.player.toLowerCase().includes(q));
+document.getElementById('rows').innerHTML=a.map(x=>`<tr><td><b>${x.player}</b></td><td><span class="tag">${x.pos}</span></td><td>${x.team}</td><td>${x.league}</td><td>${x.snaps}</td><td><b>${x.pct.toFixed(1)}%</b><span class="bar"><span class="fill" style="display:block;width:${x.pct}%"></span></span></td><td class="${x.trend>0?'up':x.trend<0?'down':''}">${x.trend>0?'↑ Rising':x.trend<0?'↓ Falling':'→'}</td></tr>`).join('')}
+render()});
+</script></body></html>
