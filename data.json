@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-15T09:06:10Z",
+  "updated_at": "2026-09-16T09:04:12Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -217,41 +217,6 @@
           "defense_pct": 95.0,
           "st_snaps": 5,
           "st_pct": 17.0
-        }
-      ]
-    },
-    {
-      "player_id": "16236",
-      "player": "Henry To'oTo'o",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "HOU",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "TooTHe00",
-      "snaps": 51,
-      "pct": 88.0,
-      "avg_3wk": 88.0,
-      "season_avg": 88.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 51,
-          "defense_pct": 88.0,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
@@ -1549,51 +1514,6 @@
       ]
     },
     {
-      "player_id": "16741",
-      "player": "Chau Smith-Wade",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "CAR",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "SmitCh05",
-      "snaps": 19,
-      "pct": 25.0,
-      "avg_3wk": 25.0,
-      "season_avg": 25.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 19,
-          "defense_pct": 25.0,
-          "st_snaps": 16,
-          "st_pct": 43.0
-        }
-      ]
-    },
-    {
       "player_id": "17083",
       "player": "Jayden Higgins",
       "position": "WR",
@@ -1701,11 +1621,46 @@
       "history": []
     },
     {
+      "player_id": "16236",
+      "player": "Henry To'oTo'o",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "HOU",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "TooTHe00",
+      "snaps": 51,
+      "pct": 88.0,
+      "avg_3wk": 88.0,
+      "season_avg": 88.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 88.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "16654",
       "player": "Jonah Elliss",
       "position": "DE",
       "unit": "IDP",
-      "team": "",
+      "team": "DEN",
       "leagues": [
         "EGS PRO",
         "EGS SFX",
@@ -1726,13 +1681,24 @@
         }
       ],
       "pfr_id": "ElliJo03",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 40,
+      "pct": 58.0,
+      "avg_3wk": 58.0,
+      "season_avg": 58.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 40,
+          "defense_pct": 58.0,
+          "st_snaps": 9,
+          "st_pct": 32.0
+        }
+      ]
     },
     {
       "player_id": "17184",
@@ -2741,7 +2707,7 @@
       "player": "Felix Anudike-Uzomah",
       "position": "DE",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM",
         "MLS Dynasty League"
@@ -2757,13 +2723,24 @@
         }
       ],
       "pfr_id": "AnudFe00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 28,
+      "pct": 55.0,
+      "avg_3wk": 55.0,
+      "season_avg": 55.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 55.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "15676",
@@ -2864,7 +2841,7 @@
       "player": "Chris Jones",
       "position": "DT",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM"
       ],
@@ -2875,13 +2852,24 @@
         }
       ],
       "pfr_id": "JoneCh09",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 26,
+      "pct": 51.0,
+      "avg_3wk": 51.0,
+      "season_avg": 51.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 51.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "16613",
@@ -3063,7 +3051,7 @@
       "player": "George Karlaftis",
       "position": "DE",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SFX"
       ],
@@ -3074,13 +3062,24 @@
         }
       ],
       "pfr_id": "KarlGe00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 44,
+      "pct": 86.0,
+      "avg_3wk": 86.0,
+      "season_avg": 86.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 86.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        }
+      ]
     },
     {
       "player_id": "15822",
@@ -3227,7 +3226,7 @@
       "player": "Nick Bolton",
       "position": "LB",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SFX"
       ],
@@ -3238,13 +3237,24 @@
         }
       ],
       "pfr_id": "BoltNi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 51,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        }
+      ]
     },
     {
       "player_id": "17080",
@@ -3535,7 +3545,7 @@
       "player": "Cyrus Allen",
       "position": "WR",
       "unit": "Offense",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SFX"
       ],
@@ -3546,13 +3556,24 @@
         }
       ],
       "pfr_id": "AlleCy00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 1,
+      "pct": 1.0,
+      "avg_3wk": 1.0,
+      "season_avg": 1.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 1,
+          "offense_pct": 1.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 4,
+          "st_pct": 14.0
+        }
+      ]
     },
     {
       "player_id": "14434",
