@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-16T09:04:12Z",
+  "updated_at": "2026-09-17T09:03:52Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -954,8 +954,7 @@
       "leagues": [
         "EGS PRO",
         "EGS SIM",
-        "EGS SFX",
-        "MLS Dynasty League"
+        "EGS SFX"
       ],
       "status": [
         {
@@ -968,10 +967,6 @@
         },
         {
           "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -1510,6 +1505,80 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "14889",
+      "player": "Kenneth Murray",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MurrKe00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "14198",
+      "player": "Rock Ya-Sin",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "DET",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "Ya-SRo00",
+      "snaps": 89,
+      "pct": 99.0,
+      "avg_3wk": 99.0,
+      "season_avg": 99.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 89,
+          "defense_pct": 99.0,
+          "st_snaps": 5,
+          "st_pct": 15.0
         }
       ]
     },
@@ -2406,41 +2475,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "17208",
-      "player": "Francisco Mauigoa",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "NYJ",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MauiFr00",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 18,
-          "st_pct": 67.0
-        }
-      ]
     },
     {
       "player_id": "16314",
@@ -3958,41 +3992,6 @@
           "defense_pct": 77.0,
           "st_snaps": 5,
           "st_pct": 15.0
-        }
-      ]
-    },
-    {
-      "player_id": "16102",
-      "player": "Isaiah Pola-Mao",
-      "position": "S",
-      "unit": "IDP",
-      "team": "LV",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "PolaIs00",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "LV",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 20,
-          "st_pct": 77.0
         }
       ]
     },
