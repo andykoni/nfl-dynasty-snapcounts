@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-17T09:03:52Z",
+  "updated_at": "2026-09-18T09:03:34Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -3778,6 +3778,41 @@
           "offense_pct": null,
           "defense_snaps": 58,
           "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "14219",
+      "player": "Jamel Dean",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "PIT",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "DeanJa00",
+      "snaps": 59,
+      "pct": 98.0,
+      "avg_3wk": 98.0,
+      "season_avg": 98.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 98.0,
           "st_snaps": 0,
           "st_pct": null
         }
