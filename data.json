@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated_at": "2026-09-19T09:03:18Z",
+  "updated_at": "2026-09-20T09:03:39Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -3426,41 +3426,6 @@
       ]
     },
     {
-      "player_id": "15394",
-      "player": "Paulson Adebo",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "AdebPa00",
-      "snaps": 10,
-      "pct": 17.0,
-      "avg_3wk": 17.0,
-      "season_avg": 17.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 17.0,
-          "st_snaps": 8,
-          "st_pct": 42.0
-        }
-      ]
-    },
-    {
       "player_id": "17171",
       "player": "Chimere Dike",
       "position": "WR",
@@ -3890,6 +3855,41 @@
       "delta": null,
       "trend": 0,
       "history": []
+    },
+    {
+      "player_id": "15394",
+      "player": "Paulson Adebo",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "AdebPa00",
+      "snaps": 10,
+      "pct": 17.0,
+      "avg_3wk": 17.0,
+      "season_avg": 17.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 10,
+          "defense_pct": 17.0,
+          "st_snaps": 8,
+          "st_pct": 42.0
+        }
+      ]
     },
     {
       "player_id": "16627",
