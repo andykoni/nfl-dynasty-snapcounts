@@ -45,7 +45,7 @@ $('historyRows').innerHTML=(x.history||[]).slice().reverse().map(h=>`<tr><td>Wee
 function renderSpotlights(){
  const eligible=D.current.filter(x=>x.delta!=null);
  const top=(arr,n)=>arr.slice().sort((a,b)=>Math.abs(b.delta)-Math.abs(a.delta)).slice(0,n);
- const make=(arr,cls,empty)=>arr.length?arr.map(x=>`<div class="spotRow" data-player="${esc(x.player)}"><div><div class="spotName">${esc(x.player)}</div><div class="spotMeta">${esc(x.team||'—')} · ${esc(x.position||'—')} · ${esc(x.leagues.join(', '))}</div></div><div class="num">${x.pct==null?'—':x.pct.toFixed(1)+'%'}</div><div class="spotDelta ${cls}">${cls==='up'?'↑ ':'↓ '}${Math.abs(x.delta).toFixed(1)} pts</div></div>`).join(''):('<div class="emptySpot">'+empty+'</div>');
+ const make=(arr,cls,empty)=>arr.length?arr.map(x=>`<div class="spotRow" data-player="${esc(x.player)}"><div><div class="spotName">${esc(x.player)}</div><div class="spotMeta">${esc(x.team||'—')} · ${esc(x.position||'—')} · ${esc(x.leagues.join(', '))}</div></div><div class="num">${x.pct==null?'—':x.pct.toFixed(1)+'%'}</div><div class="spotDelta ${cls}">${cls==='up'?'↑ ':'↓ '}${Math.abs(x.delta).toFixed(1)} %</div></div>`).join(''):('<div class="emptySpot">'+empty+'</div>');
  const risers=top(eligible.filter(x=>x.delta>0),5), fallers=top(eligible.filter(x=>x.delta<0),5);
  $('risersList').innerHTML=make(risers,'up','No meaningful risers yet.'); $('fallersList').innerHTML=make(fallers,'down','No meaningful fallers yet.');
  document.querySelectorAll('.spotRow').forEach(row=>{row.onclick=()=>{const x=D.current.find(p=>p.player===row.dataset.player);if(x)openDetail(x)}});
