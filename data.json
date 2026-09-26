@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 2,
-  "updated_at": "2026-09-25T09:04:07Z",
+  "week": 3,
+  "updated_at": "2026-09-26T09:03:32Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -801,41 +801,6 @@
       ]
     },
     {
-      "player_id": "13742",
-      "player": "B.J. Hill",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "CIN",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HillB.00",
-      "snaps": 24,
-      "pct": 42.0,
-      "avg_3wk": 42.0,
-      "season_avg": 42.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "CIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 42.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "14871",
       "player": "Colby Parkinson",
       "position": "TE",
@@ -921,12 +886,12 @@
         }
       ],
       "pfr_id": "DeabDi00",
-      "snaps": 54,
-      "pct": 82.0,
-      "avg_3wk": 91.0,
-      "season_avg": 91.0,
-      "delta": -18.0,
-      "trend": -1,
+      "snaps": 66,
+      "pct": 100.0,
+      "avg_3wk": 94.0,
+      "season_avg": 94.0,
+      "delta": 18.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -947,6 +912,16 @@
           "defense_pct": 82.0,
           "st_snaps": 6,
           "st_pct": 25.0
+        },
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 66,
+          "defense_pct": 100.0,
+          "st_snaps": 5,
+          "st_pct": 20.0
         }
       ]
     },
@@ -1913,6 +1888,61 @@
       ]
     },
     {
+      "player_id": "16314",
+      "player": "SirVocea Dennis",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "TB",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "DennSi00",
+      "snaps": 9,
+      "pct": 16.0,
+      "avg_3wk": 12.0,
+      "season_avg": 12.0,
+      "delta": 8.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 5,
+          "defense_pct": 8.0,
+          "st_snaps": 15,
+          "st_pct": 56.0
+        },
+        {
+          "week": 2,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 9,
+          "defense_pct": 16.0,
+          "st_snaps": 20,
+          "st_pct": 67.0
+        }
+      ]
+    },
+    {
       "player_id": "17083",
       "player": "Jayden Higgins",
       "position": "WR",
@@ -2519,12 +2549,12 @@
         }
       ],
       "pfr_id": "PittKy00",
-      "snaps": 26,
-      "pct": 38.0,
-      "avg_3wk": 50.5,
-      "season_avg": 50.5,
-      "delta": -25.0,
-      "trend": -1,
+      "snaps": 42,
+      "pct": 59.0,
+      "avg_3wk": 53.3,
+      "season_avg": 53.3,
+      "delta": 21.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -2541,6 +2571,16 @@
           "team": "ATL",
           "offense_snaps": 26,
           "offense_pct": 38.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 42,
+          "offense_pct": 59.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -2967,56 +3007,6 @@
       "history": []
     },
     {
-      "player_id": "16314",
-      "player": "SirVocea Dennis",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "TB",
-      "leagues": [
-        "EGS SIM",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "DennSi00",
-      "snaps": 9,
-      "pct": 16.0,
-      "avg_3wk": 12.0,
-      "season_avg": 12.0,
-      "delta": 8.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 5,
-          "defense_pct": 8.0,
-          "st_snaps": 15,
-          "st_pct": 56.0
-        },
-        {
-          "week": 2,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 9,
-          "defense_pct": 16.0,
-          "st_snaps": 20,
-          "st_pct": 67.0
-        }
-      ]
-    },
-    {
       "player_id": "13837",
       "player": "Zaire Franklin",
       "position": "LB",
@@ -3032,7 +3022,7 @@
         }
       ],
       "pfr_id": "FranZa00",
-      "snaps": 74,
+      "snaps": 71,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -3055,6 +3045,16 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 74,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
@@ -3307,8 +3307,8 @@
         }
       ],
       "pfr_id": "HarrCh06",
-      "snaps": 4,
-      "pct": 6.0,
+      "snaps": 0,
+      "pct": null,
       "avg_3wk": 6.0,
       "season_avg": 6.0,
       "delta": null,
@@ -3323,6 +3323,16 @@
           "defense_pct": 6.0,
           "st_snaps": 13,
           "st_pct": 54.0
+        },
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 14,
+          "st_pct": 56.0
         }
       ]
     },
@@ -3342,12 +3352,12 @@
         }
       ],
       "pfr_id": "SmitJo01",
-      "snaps": 13,
-      "pct": 22.0,
-      "avg_3wk": 34.5,
-      "season_avg": 34.5,
-      "delta": -25.0,
-      "trend": -1,
+      "snaps": 22,
+      "pct": 33.0,
+      "avg_3wk": 34.0,
+      "season_avg": 34.0,
+      "delta": 11.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -3368,6 +3378,16 @@
           "defense_pct": null,
           "st_snaps": 4,
           "st_pct": 14.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 22,
+          "offense_pct": 33.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 7,
+          "st_pct": 28.0
         }
       ]
     },
@@ -3458,6 +3478,51 @@
           "defense_pct": 43.0,
           "st_snaps": 5,
           "st_pct": 22.0
+        }
+      ]
+    },
+    {
+      "player_id": "17640",
+      "player": "Michael Taaffe",
+      "position": "S",
+      "unit": "IDP",
+      "team": "MIA",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "TaafMi00",
+      "snaps": 44,
+      "pct": 85.0,
+      "avg_3wk": 80.0,
+      "season_avg": 80.0,
+      "delta": 10.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "MIA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 75.0,
+          "st_snaps": 8,
+          "st_pct": 31.0
+        },
+        {
+          "week": 2,
+          "team": "MIA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 85.0,
+          "st_snaps": 8,
+          "st_pct": 32.0
         }
       ]
     },
@@ -4062,7 +4127,7 @@
         }
       ],
       "pfr_id": "WillEv00",
-      "snaps": 74,
+      "snaps": 71,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -4088,6 +4153,16 @@
           "defense_pct": 100.0,
           "st_snaps": 8,
           "st_pct": 28.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 8,
+          "st_pct": 32.0
         }
       ]
     },
@@ -4703,7 +4778,7 @@
       "player": "Michael Penix Jr.",
       "position": "QB",
       "unit": "Offense",
-      "team": "",
+      "team": "ATL",
       "leagues": [
         "MLS Dynasty League"
       ],
@@ -4714,13 +4789,24 @@
         }
       ],
       "pfr_id": "PeniMi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 71,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 71,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "17147",
