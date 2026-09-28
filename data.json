@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-09-27T09:03:31Z",
+  "updated_at": "2026-09-28T09:05:43Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1076,35 +1076,6 @@
       ]
     },
     {
-      "player_id": "16149",
-      "player": "Will Levis",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "LeviWi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
       "player_id": "16596",
       "player": "Braelon Allen",
       "position": "RB",
@@ -1939,6 +1910,51 @@
           "defense_pct": 16.0,
           "st_snaps": 20,
           "st_pct": 67.0
+        }
+      ]
+    },
+    {
+      "player_id": "16384",
+      "player": "Tyson Bagent",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "CHI",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BageTy00",
+      "snaps": 10,
+      "pct": 14.0,
+      "avg_3wk": 14.0,
+      "season_avg": 14.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 2,
+          "team": "CHI",
+          "offense_snaps": 10,
+          "offense_pct": 14.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -2998,6 +3014,30 @@
         }
       ],
       "pfr_id": "RichAn03",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "16149",
+      "player": "Will Levis",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LeviWi00",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
@@ -4332,46 +4372,6 @@
           "defense_pct": 91.0,
           "st_snaps": 13,
           "st_pct": 48.0
-        }
-      ]
-    },
-    {
-      "player_id": "16384",
-      "player": "Tyson Bagent",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "CHI",
-      "leagues": [
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "BageTy00",
-      "snaps": 10,
-      "pct": 14.0,
-      "avg_3wk": 14.0,
-      "season_avg": 14.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 2,
-          "team": "CHI",
-          "offense_snaps": 10,
-          "offense_pct": 14.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
