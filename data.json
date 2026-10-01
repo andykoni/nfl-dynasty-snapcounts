@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-09-30T09:04:59Z",
+  "updated_at": "2026-10-01T09:05:38Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -657,51 +657,6 @@
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16633",
-      "player": "Jordan Whittington",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "LA",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WhitJo04",
-      "snaps": 21,
-      "pct": 24.0,
-      "avg_3wk": 32.5,
-      "season_avg": 32.5,
-      "delta": -17.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "LA",
-          "offense_snaps": 25,
-          "offense_pct": 41.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 13,
-          "st_pct": 65.0
-        },
-        {
-          "week": 3,
-          "team": "LA",
-          "offense_snaps": 21,
-          "offense_pct": 24.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 20.0
         }
       ]
     },
@@ -1945,11 +1900,11 @@
       "history": []
     },
     {
-      "player_id": "14198",
-      "player": "Rock Ya-Sin",
+      "player_id": "14957",
+      "player": "Amik Robertson",
       "position": "CB",
       "unit": "IDP",
-      "team": "DET",
+      "team": "WAS",
       "leagues": [
         "EGS PRO",
         "EGS SIM",
@@ -1971,71 +1926,6 @@
         },
         {
           "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "Ya-SRo00",
-      "snaps": 13,
-      "pct": 20.0,
-      "avg_3wk": 71.3,
-      "season_avg": 71.3,
-      "delta": -75.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 89,
-          "defense_pct": 99.0,
-          "st_snaps": 5,
-          "st_pct": 15.0
-        },
-        {
-          "week": 2,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 95.0,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 3,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 13,
-          "defense_pct": 20.0,
-          "st_snaps": 13,
-          "st_pct": 57.0
-        }
-      ]
-    },
-    {
-      "player_id": "14957",
-      "player": "Amik Robertson",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "WAS",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -2309,6 +2199,116 @@
           "offense_pct": 58.0,
           "defense_snaps": 0,
           "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "17254",
+      "player": "Konata Mumpfield",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "LA",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MumpKo00",
+      "snaps": 63,
+      "pct": 73.0,
+      "avg_3wk": 56.0,
+      "season_avg": 56.0,
+      "delta": 4.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "LA",
+          "offense_snaps": 16,
+          "offense_pct": 26.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 30.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 43,
+          "offense_pct": 69.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 4,
+          "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "LA",
+          "offense_snaps": 63,
+          "offense_pct": 73.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "16703",
+      "player": "Andru Phillips",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "PhilAn02",
+      "snaps": 49,
+      "pct": 82.0,
+      "avg_3wk": 71.0,
+      "season_avg": 71.0,
+      "delta": 34.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 48,
+          "defense_pct": 83.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 48.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 49,
+          "defense_pct": 82.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -3949,6 +3949,66 @@
       ]
     },
     {
+      "player_id": "14198",
+      "player": "Rock Ya-Sin",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "DET",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "Ya-SRo00",
+      "snaps": 13,
+      "pct": 20.0,
+      "avg_3wk": 71.3,
+      "season_avg": 71.3,
+      "delta": -75.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 89,
+          "defense_pct": 99.0,
+          "st_snaps": 5,
+          "st_pct": 15.0
+        },
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 95.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 3,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 13,
+          "defense_pct": 20.0,
+          "st_snaps": 13,
+          "st_pct": 57.0
+        }
+      ]
+    },
+    {
       "player_id": "16660",
       "player": "Darius Robinson",
       "position": "DT",
@@ -5203,6 +5263,35 @@
       ]
     },
     {
+      "player_id": "13138",
+      "player": "Kareem Hunt",
+      "position": "RB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HuntKa00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16215",
       "player": "Luke Musgrave",
       "position": "TE",
@@ -5741,30 +5830,6 @@
       ]
     },
     {
-      "player_id": "13138",
-      "player": "Kareem Hunt",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HuntKa00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
       "player_id": "16727",
       "player": "Jaden Hicks",
       "position": "S",
@@ -5871,6 +5936,51 @@
           "defense_pct": 58.0,
           "st_snaps": 1,
           "st_pct": 4.0
+        }
+      ]
+    },
+    {
+      "player_id": "16457",
+      "player": "Christian Izien",
+      "position": "S",
+      "unit": "IDP",
+      "team": "DET",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "IzieCh00",
+      "snaps": 64,
+      "pct": 97.0,
+      "avg_3wk": 66.0,
+      "season_avg": 66.0,
+      "delta": 62.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 35.0,
+          "st_snaps": 11,
+          "st_pct": 38.0
+        },
+        {
+          "week": 3,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 97.0,
+          "st_snaps": 7,
+          "st_pct": 30.0
         }
       ]
     },
