@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-10-01T09:05:38Z",
+  "updated_at": "2026-10-02T09:05:55Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -842,61 +842,6 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16725",
-      "player": "Malik Mustapha",
-      "position": "S",
-      "unit": "IDP",
-      "team": "SF",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MustMa00",
-      "snaps": 19,
-      "pct": 22.0,
-      "avg_3wk": 12.3,
-      "season_avg": 12.3,
-      "delta": 17.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 6,
-          "defense_pct": 10.0,
-          "st_snaps": 10,
-          "st_pct": 50.0
-        },
-        {
-          "week": 2,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 5.0,
-          "st_snaps": 13,
-          "st_pct": 52.0
-        },
-        {
-          "week": 3,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 19,
-          "defense_pct": 22.0,
-          "st_snaps": 13,
-          "st_pct": 41.0
         }
       ]
     },
@@ -2311,6 +2256,61 @@
           "defense_pct": 82.0,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "16263",
+      "player": "Quan Martin",
+      "position": "S",
+      "unit": "IDP",
+      "team": "WAS",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MartJa04",
+      "snaps": 58,
+      "pct": 87.0,
+      "avg_3wk": 60.0,
+      "season_avg": 60.0,
+      "delta": 32.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "WAS",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 21,
+          "defense_pct": 38.0,
+          "st_snaps": 22,
+          "st_pct": 71.0
+        },
+        {
+          "week": 2,
+          "team": "WAS",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 55.0,
+          "st_snaps": 22,
+          "st_pct": 81.0
+        },
+        {
+          "week": 3,
+          "team": "WAS",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 58,
+          "defense_pct": 87.0,
+          "st_snaps": 11,
+          "st_pct": 32.0
         }
       ]
     },
