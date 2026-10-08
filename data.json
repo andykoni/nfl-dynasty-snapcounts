@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated_at": "2026-10-07T09:06:15Z",
+  "updated_at": "2026-10-08T09:06:34Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1773,8 +1773,7 @@
       "team": "NYJ",
       "leagues": [
         "EGS PRO",
-        "EGS SIM",
-        "MLS Dynasty League"
+        "EGS SIM"
       ],
       "status": [
         {
@@ -1783,10 +1782,6 @@
         },
         {
           "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -1983,76 +1978,6 @@
           "team": "ARI",
           "offense_snaps": 62,
           "offense_pct": 94.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "14974",
-      "player": "Darnell Mooney",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MoonDa00",
-      "snaps": 37,
-      "pct": 55.0,
-      "avg_3wk": 57.0,
-      "season_avg": 57.0,
-      "delta": 11.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 39,
-          "offense_pct": 57.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 42,
-          "offense_pct": 72.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 28,
-          "offense_pct": 44.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "NYG",
-          "offense_snaps": 37,
-          "offense_pct": 55.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -2526,71 +2451,6 @@
       ]
     },
     {
-      "player_id": "16703",
-      "player": "Andru Phillips",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "PhilAn02",
-      "snaps": 43,
-      "pct": 65.0,
-      "avg_3wk": 65.0,
-      "season_avg": 69.5,
-      "delta": -17.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 48,
-          "defense_pct": 83.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 30,
-          "defense_pct": 48.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 49,
-          "defense_pct": 82.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 65.0,
-          "st_snaps": 6,
-          "st_pct": 21.0
-        }
-      ]
-    },
-    {
       "player_id": "16263",
       "player": "Quan Martin",
       "position": "S",
@@ -2652,6 +2512,141 @@
           "defense_pct": 89.0,
           "st_snaps": 10,
           "st_pct": 36.0
+        }
+      ]
+    },
+    {
+      "player_id": "15946",
+      "player": "Rodney Thomas II",
+      "position": "S",
+      "unit": "IDP",
+      "team": "SEA",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ThomRo07",
+      "snaps": 70,
+      "pct": 99.0,
+      "avg_3wk": 99.7,
+      "season_avg": 99.5,
+      "delta": -1.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 99.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 69,
+          "defense_pct": 100.0,
+          "st_snaps": 6,
+          "st_pct": 18.0
+        },
+        {
+          "week": 4,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 99.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "15880",
+      "player": "Akayleb Evans",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "CAR",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "EvanAk00",
+      "snaps": 71,
+      "pct": 100.0,
+      "avg_3wk": 55.3,
+      "season_avg": 55.3,
+      "delta": 57.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 13,
+          "st_pct": 35.0
+        },
+        {
+          "week": 2,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 16,
+          "defense_pct": 23.0,
+          "st_snaps": 18,
+          "st_pct": 75.0
+        },
+        {
+          "week": 3,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 43.0,
+          "st_snaps": 17,
+          "st_pct": 63.0
+        },
+        {
+          "week": 4,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 6,
+          "st_pct": 20.0
         }
       ]
     },
@@ -3444,6 +3439,71 @@
           "team": "ATL",
           "offense_snaps": 29,
           "offense_pct": 51.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "14974",
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "NYG",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MoonDa00",
+      "snaps": 37,
+      "pct": 55.0,
+      "avg_3wk": 57.0,
+      "season_avg": 57.0,
+      "delta": 11.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 39,
+          "offense_pct": 57.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 42,
+          "offense_pct": 72.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 28,
+          "offense_pct": 44.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "NYG",
+          "offense_snaps": 37,
+          "offense_pct": 55.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -4781,71 +4841,6 @@
           "defense_pct": 86.0,
           "st_snaps": 6,
           "st_pct": 19.0
-        }
-      ]
-    },
-    {
-      "player_id": "15946",
-      "player": "Rodney Thomas II",
-      "position": "S",
-      "unit": "IDP",
-      "team": "SEA",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "ThomRo07",
-      "snaps": 70,
-      "pct": 99.0,
-      "avg_3wk": 99.7,
-      "season_avg": 99.5,
-      "delta": -1.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 99.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 69,
-          "defense_pct": 100.0,
-          "st_snaps": 6,
-          "st_pct": 18.0
-        },
-        {
-          "week": 4,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 99.0,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
@@ -7062,6 +7057,61 @@
           "defense_pct": 97.0,
           "st_snaps": 6,
           "st_pct": 20.0
+        }
+      ]
+    },
+    {
+      "player_id": "17163",
+      "player": "Jacob Parrish",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "TB",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ParrJa01",
+      "snaps": 59,
+      "pct": 98.0,
+      "avg_3wk": 76.3,
+      "season_avg": 76.3,
+      "delta": -2.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 20,
+          "defense_pct": 31.0,
+          "st_snaps": 2,
+          "st_pct": 7.0
+        },
+        {
+          "week": 3,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 100.0,
+          "st_snaps": 5,
+          "st_pct": 14.0
+        },
+        {
+          "week": 4,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 98.0,
+          "st_snaps": 4,
+          "st_pct": 21.0
         }
       ]
     },
