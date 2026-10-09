@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated_at": "2026-10-08T09:06:34Z",
+  "updated_at": "2026-10-09T09:06:53Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2242,7 +2242,7 @@
     },
     {
       "player_id": "17059",
-      "player": "Ollie Gordon",
+      "player": "Ollie Gordon II",
       "position": "RB",
       "unit": "Offense",
       "team": "MIA",
@@ -4331,16 +4331,11 @@
       "unit": "IDP",
       "team": "KC",
       "leagues": [
-        "EGS SIM",
-        "MLS Dynasty League"
+        "EGS SIM"
       ],
       "status": [
         {
           "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -7112,6 +7107,71 @@
           "defense_pct": 98.0,
           "st_snaps": 4,
           "st_pct": 21.0
+        }
+      ]
+    },
+    {
+      "player_id": "17680",
+      "player": "Robert Spears-Jennings",
+      "position": "S",
+      "unit": "IDP",
+      "team": "PIT",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "SpeaRo01",
+      "snaps": 37,
+      "pct": 58.0,
+      "avg_3wk": 30.0,
+      "season_avg": 30.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 23,
+          "st_pct": 77.0
+        },
+        {
+          "week": 2,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 1,
+          "defense_pct": 2.0,
+          "st_snaps": 23,
+          "st_pct": 92.0
+        },
+        {
+          "week": 3,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 22,
+          "st_pct": 79.0
+        },
+        {
+          "week": 4,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 58.0,
+          "st_snaps": 16,
+          "st_pct": 57.0
         }
       ]
     },
