@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 4,
-  "updated_at": "2026-10-09T09:06:53Z",
+  "week": 5,
+  "updated_at": "2026-10-10T09:04:07Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -451,12 +451,12 @@
         }
       ],
       "pfr_id": "DiabYa00",
-      "snaps": 36,
-      "pct": 60.0,
-      "avg_3wk": 64.0,
-      "season_avg": 63.5,
-      "delta": -8.0,
-      "trend": -1,
+      "snaps": 34,
+      "pct": 57.0,
+      "avg_3wk": 61.7,
+      "season_avg": 62.2,
+      "delta": -3.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -497,6 +497,16 @@
           "defense_pct": 60.0,
           "st_snaps": 4,
           "st_pct": 21.0
+        },
+        {
+          "week": 5,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 57.0,
+          "st_snaps": 2,
+          "st_pct": 9.0
         }
       ]
     },
@@ -1766,76 +1776,6 @@
       ]
     },
     {
-      "player_id": "15364",
-      "player": "Andre Cisco",
-      "position": "S",
-      "unit": "IDP",
-      "team": "NYJ",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "CiscAn00",
-      "snaps": 3,
-      "pct": 3.0,
-      "avg_3wk": 67.7,
-      "season_avg": 72.8,
-      "delta": -97.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 44,
-          "defense_pct": 88.0,
-          "st_snaps": 13,
-          "st_pct": 48.0
-        },
-        {
-          "week": 2,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 59,
-          "defense_pct": 100.0,
-          "st_snaps": 7,
-          "st_pct": 24.0
-        },
-        {
-          "week": 3,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 65,
-          "defense_pct": 100.0,
-          "st_snaps": 3,
-          "st_pct": 13.0
-        },
-        {
-          "week": 4,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 3.0,
-          "st_snaps": 15,
-          "st_pct": 65.0
-        }
-      ]
-    },
-    {
       "player_id": "17256",
       "player": "Jacory Croskey-Merritt",
       "position": "RB",
@@ -2516,76 +2456,6 @@
       ]
     },
     {
-      "player_id": "15946",
-      "player": "Rodney Thomas II",
-      "position": "S",
-      "unit": "IDP",
-      "team": "SEA",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "ThomRo07",
-      "snaps": 70,
-      "pct": 99.0,
-      "avg_3wk": 99.7,
-      "season_avg": 99.5,
-      "delta": -1.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 99.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 69,
-          "defense_pct": 100.0,
-          "st_snaps": 6,
-          "st_pct": 18.0
-        },
-        {
-          "week": 4,
-          "team": "SEA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 99.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "15880",
       "player": "Akayleb Evans",
       "position": "CB",
@@ -2647,6 +2517,141 @@
           "defense_pct": 100.0,
           "st_snaps": 6,
           "st_pct": 20.0
+        }
+      ]
+    },
+    {
+      "player_id": "16725",
+      "player": "Malik Mustapha",
+      "position": "S",
+      "unit": "IDP",
+      "team": "SF",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MustMa00",
+      "snaps": 21,
+      "pct": 32.0,
+      "avg_3wk": 19.7,
+      "season_avg": 17.2,
+      "delta": 10.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 6,
+          "defense_pct": 10.0,
+          "st_snaps": 10,
+          "st_pct": 50.0
+        },
+        {
+          "week": 2,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 5.0,
+          "st_snaps": 13,
+          "st_pct": 52.0
+        },
+        {
+          "week": 3,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 19,
+          "defense_pct": 22.0,
+          "st_snaps": 13,
+          "st_pct": 41.0
+        },
+        {
+          "week": 4,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 21,
+          "defense_pct": 32.0,
+          "st_snaps": 14,
+          "st_pct": 54.0
+        }
+      ]
+    },
+    {
+      "player_id": "17680",
+      "player": "Robert Spears-Jennings",
+      "position": "S",
+      "unit": "IDP",
+      "team": "PIT",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "SpeaRo01",
+      "snaps": 37,
+      "pct": 58.0,
+      "avg_3wk": 30.0,
+      "season_avg": 30.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 23,
+          "st_pct": 77.0
+        },
+        {
+          "week": 2,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 1,
+          "defense_pct": 2.0,
+          "st_snaps": 23,
+          "st_pct": 92.0
+        },
+        {
+          "week": 3,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 22,
+          "st_pct": 79.0
+        },
+        {
+          "week": 4,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 58.0,
+          "st_snaps": 16,
+          "st_pct": 57.0
         }
       ]
     },
@@ -3067,12 +3072,12 @@
         }
       ],
       "pfr_id": "HursTe00",
-      "snaps": 25,
-      "pct": 40.0,
-      "avg_3wk": 63.0,
-      "season_avg": 66.0,
-      "delta": -35.0,
-      "trend": -1,
+      "snaps": 33,
+      "pct": 46.0,
+      "avg_3wk": 53.7,
+      "season_avg": 62.0,
+      "delta": 6.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -3109,6 +3114,16 @@
           "team": "TB",
           "offense_snaps": 25,
           "offense_pct": 40.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "TB",
+          "offense_snaps": 33,
+          "offense_pct": 46.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -4007,6 +4022,71 @@
       ]
     },
     {
+      "player_id": "15364",
+      "player": "Andre Cisco",
+      "position": "S",
+      "unit": "IDP",
+      "team": "NYJ",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "CiscAn00",
+      "snaps": 3,
+      "pct": 3.0,
+      "avg_3wk": 67.7,
+      "season_avg": 72.8,
+      "delta": -97.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 88.0,
+          "st_snaps": 13,
+          "st_pct": 48.0
+        },
+        {
+          "week": 2,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 100.0,
+          "st_snaps": 7,
+          "st_pct": 24.0
+        },
+        {
+          "week": 3,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 13.0
+        },
+        {
+          "week": 4,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 3.0,
+          "st_snaps": 15,
+          "st_pct": 65.0
+        }
+      ]
+    },
+    {
       "player_id": "16152",
       "player": "Anthony Richardson",
       "position": "QB",
@@ -4575,71 +4655,6 @@
       ]
     },
     {
-      "player_id": "14198",
-      "player": "Rock Ya-Sin",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "DET",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "Ya-SRo00",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": 57.5,
-      "season_avg": 71.3,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 89,
-          "defense_pct": 99.0,
-          "st_snaps": 5,
-          "st_pct": 15.0
-        },
-        {
-          "week": 2,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 70,
-          "defense_pct": 95.0,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 3,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 13,
-          "defense_pct": 20.0,
-          "st_snaps": 13,
-          "st_pct": 57.0
-        },
-        {
-          "week": 4,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 9,
-          "st_pct": 30.0
-        }
-      ]
-    },
-    {
       "player_id": "16660",
       "player": "Darius Robinson",
       "position": "DT",
@@ -4836,6 +4851,71 @@
           "defense_pct": 86.0,
           "st_snaps": 6,
           "st_pct": 19.0
+        }
+      ]
+    },
+    {
+      "player_id": "15946",
+      "player": "Rodney Thomas II",
+      "position": "S",
+      "unit": "IDP",
+      "team": "SEA",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ThomRo07",
+      "snaps": 70,
+      "pct": 99.0,
+      "avg_3wk": 99.7,
+      "season_avg": 99.5,
+      "delta": -1.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 99.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 69,
+          "defense_pct": 100.0,
+          "st_snaps": 6,
+          "st_pct": 18.0
+        },
+        {
+          "week": 4,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 99.0,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -5485,12 +5565,12 @@
         }
       ],
       "pfr_id": "WillQu00",
-      "snaps": 38,
+      "snaps": 50,
       "pct": 69.0,
-      "avg_3wk": 71.3,
-      "season_avg": 72.8,
-      "delta": -6.0,
-      "trend": -1,
+      "avg_3wk": 71.0,
+      "season_avg": 72.0,
+      "delta": 0.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -5530,6 +5610,16 @@
           "defense_snaps": 38,
           "defense_pct": 69.0,
           "st_snaps": 6,
+          "st_pct": 18.0
+        },
+        {
+          "week": 5,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 69.0,
+          "st_snaps": 4,
           "st_pct": 18.0
         }
       ]
@@ -7071,11 +7161,11 @@
         }
       ],
       "pfr_id": "ParrJa01",
-      "snaps": 59,
-      "pct": 98.0,
-      "avg_3wk": 76.3,
-      "season_avg": 76.3,
-      "delta": -2.0,
+      "snaps": 58,
+      "pct": 97.0,
+      "avg_3wk": 98.3,
+      "season_avg": 81.5,
+      "delta": -1.0,
       "trend": 0,
       "history": [
         {
@@ -7107,71 +7197,16 @@
           "defense_pct": 98.0,
           "st_snaps": 4,
           "st_pct": 21.0
-        }
-      ]
-    },
-    {
-      "player_id": "17680",
-      "player": "Robert Spears-Jennings",
-      "position": "S",
-      "unit": "IDP",
-      "team": "PIT",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "SpeaRo01",
-      "snaps": 37,
-      "pct": 58.0,
-      "avg_3wk": 30.0,
-      "season_avg": 30.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 23,
-          "st_pct": 77.0
         },
         {
-          "week": 2,
-          "team": "PIT",
+          "week": 5,
+          "team": "TB",
           "offense_snaps": 0,
           "offense_pct": null,
-          "defense_snaps": 1,
-          "defense_pct": 2.0,
-          "st_snaps": 23,
-          "st_pct": 92.0
-        },
-        {
-          "week": 3,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 22,
-          "st_pct": 79.0
-        },
-        {
-          "week": 4,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 37,
-          "defense_pct": 58.0,
-          "st_snaps": 16,
-          "st_pct": 57.0
+          "defense_snaps": 58,
+          "defense_pct": 97.0,
+          "st_snaps": 2,
+          "st_pct": 9.0
         }
       ]
     },
