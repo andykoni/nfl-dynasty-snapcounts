@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated_at": "2026-10-10T09:04:07Z",
+  "updated_at": "2026-10-11T09:05:08Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2593,11 +2593,16 @@
       "team": "PIT",
       "leagues": [
         "EGS PRO",
+        "EGS SIM",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
           "status": "ROSTER"
         },
         {
