@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated_at": "2026-10-13T09:07:41Z",
+  "updated_at": "2026-10-14T09:21:02Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -586,12 +586,12 @@
         }
       ],
       "pfr_id": "NacuPu00",
-      "snaps": 76,
-      "pct": 90.0,
-      "avg_3wk": 80.0,
-      "season_avg": 80.0,
-      "delta": 20.0,
-      "trend": 1,
+      "snaps": 70,
+      "pct": 85.0,
+      "avg_3wk": 81.7,
+      "season_avg": 81.7,
+      "delta": -5.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -608,6 +608,16 @@
           "team": "LA",
           "offense_snaps": 76,
           "offense_pct": 90.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 70,
+          "offense_pct": 85.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -1126,12 +1136,12 @@
         }
       ],
       "pfr_id": "ParkCo02",
-      "snaps": 37,
-      "pct": 43.0,
-      "avg_3wk": 63.7,
-      "season_avg": 63.7,
-      "delta": -28.0,
-      "trend": -1,
+      "snaps": 53,
+      "pct": 65.0,
+      "avg_3wk": 59.7,
+      "season_avg": 64.0,
+      "delta": 22.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -1158,6 +1168,16 @@
           "team": "LA",
           "offense_snaps": 37,
           "offense_pct": 43.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 53,
+          "offense_pct": 65.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -2621,11 +2641,11 @@
         }
       ],
       "pfr_id": "MumpKo00",
-      "snaps": 23,
-      "pct": 27.0,
-      "avg_3wk": 56.3,
-      "season_avg": 48.8,
-      "delta": -46.0,
+      "snaps": 6,
+      "pct": 7.0,
+      "avg_3wk": 35.7,
+      "season_avg": 40.4,
+      "delta": -20.0,
       "trend": -1,
       "history": [
         {
@@ -2667,6 +2687,16 @@
           "defense_pct": null,
           "st_snaps": 2,
           "st_pct": 7.0
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 6,
+          "offense_pct": 7.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
