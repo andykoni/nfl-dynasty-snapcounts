@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-16T13:37:24Z",
+  "updated_at": "2026-10-17T12:34:32Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2973,7 +2973,8 @@
       "team": "CLE",
       "leagues": [
         "EGS PRO",
-        "EGS SIM"
+        "EGS SIM",
+        "MLS Dynasty League"
       ],
       "status": [
         {
@@ -2982,6 +2983,10 @@
         },
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -5536,6 +5541,30 @@
       ]
     },
     {
+      "player_id": "15702",
+      "player": "Tanner McKee",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "McKeTa01",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -7539,51 +7568,6 @@
           "defense_pct": 32.0,
           "st_snaps": 16,
           "st_pct": 50.0
-        }
-      ]
-    },
-    {
-      "player_id": "14889",
-      "player": "Kenneth Murray",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "HOU",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MurrKe00",
-      "snaps": 3,
-      "pct": 5.0,
-      "avg_3wk": 43.5,
-      "season_avg": 43.5,
-      "delta": -77.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 4,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 82.0,
-          "st_snaps": 2,
-          "st_pct": 6.0
-        },
-        {
-          "week": 5,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 5.0,
-          "st_snaps": 7,
-          "st_pct": 32.0
         }
       ]
     },
