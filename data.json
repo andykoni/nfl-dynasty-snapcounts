@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-17T12:34:32Z",
+  "updated_at": "2026-10-18T12:52:10Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1538,16 +1538,11 @@
       "team": "WAS",
       "leagues": [
         "EGS PRO",
-        "EGS SFX",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
           "status": "ROSTER"
         },
         {
@@ -2202,81 +2197,6 @@
           "defense_pct": 98.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16314",
-      "player": "SirVocea Dennis",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "TB",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "DennSi00",
-      "snaps": 6,
-      "pct": 10.0,
-      "avg_3wk": 24.0,
-      "season_avg": 20.0,
-      "delta": -36.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 5,
-          "defense_pct": 8.0,
-          "st_snaps": 15,
-          "st_pct": 56.0
-        },
-        {
-          "week": 2,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 9,
-          "defense_pct": 16.0,
-          "st_snaps": 20,
-          "st_pct": 67.0
-        },
-        {
-          "week": 3,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 27,
-          "defense_pct": 46.0,
-          "st_snaps": 32,
-          "st_pct": 86.0
-        },
-        {
-          "week": 4,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 6,
-          "defense_pct": 10.0,
-          "st_snaps": 3,
-          "st_pct": 16.0
         }
       ]
     },
@@ -3051,6 +2971,41 @@
       ]
     },
     {
+      "player_id": "16236",
+      "player": "Henry To'oTo'o",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "HOU",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "TooTHe00",
+      "snaps": 51,
+      "pct": 88.0,
+      "avg_3wk": 88.0,
+      "season_avg": 88.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 88.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "17083",
       "player": "Jayden Higgins",
       "position": "WR",
@@ -3156,41 +3111,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "16236",
-      "player": "Henry To'oTo'o",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "HOU",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "TooTHe00",
-      "snaps": 51,
-      "pct": 88.0,
-      "avg_3wk": 88.0,
-      "season_avg": 88.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 51,
-          "defense_pct": 88.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
     },
     {
       "player_id": "16654",
@@ -3708,81 +3628,6 @@
           "defense_pct": null,
           "st_snaps": 7,
           "st_pct": 29.0
-        }
-      ]
-    },
-    {
-      "player_id": "14783",
-      "player": "Jalen Hurts",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "PHI",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HurtJa00",
-      "snaps": 62,
-      "pct": 100.0,
-      "avg_3wk": 97.3,
-      "season_avg": 98.4,
-      "delta": 0.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "PHI",
-          "offense_snaps": 55,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "PHI",
-          "offense_snaps": 76,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "PHI",
-          "offense_snaps": 46,
-          "offense_pct": 92.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "PHI",
-          "offense_snaps": 61,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "PHI",
-          "offense_snaps": 62,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
@@ -4534,6 +4379,76 @@
       "delta": null,
       "trend": 0,
       "history": []
+    },
+    {
+      "player_id": "16314",
+      "player": "SirVocea Dennis",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "TB",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "DennSi00",
+      "snaps": 6,
+      "pct": 10.0,
+      "avg_3wk": 24.0,
+      "season_avg": 20.0,
+      "delta": -36.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 5,
+          "defense_pct": 8.0,
+          "st_snaps": 15,
+          "st_pct": 56.0
+        },
+        {
+          "week": 2,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 9,
+          "defense_pct": 16.0,
+          "st_snaps": 20,
+          "st_pct": 67.0
+        },
+        {
+          "week": 3,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 46.0,
+          "st_snaps": 32,
+          "st_pct": 86.0
+        },
+        {
+          "week": 4,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 6,
+          "defense_pct": 10.0,
+          "st_snaps": 3,
+          "st_pct": 16.0
+        }
+      ]
     },
     {
       "player_id": "13837",
@@ -5565,6 +5480,59 @@
       "history": []
     },
     {
+      "player_id": "16585",
+      "player": "Joe Milton",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MiltJo00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "17096",
+      "player": "Savion Williams",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WillSa01",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -5609,35 +5577,6 @@
         }
       ],
       "pfr_id": "BensTr01",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "17096",
-      "player": "Savion Williams",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "WillSa01",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
@@ -5698,6 +5637,81 @@
       "delta": null,
       "trend": 0,
       "history": []
+    },
+    {
+      "player_id": "14783",
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "PHI",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "HurtJa00",
+      "snaps": 62,
+      "pct": 100.0,
+      "avg_3wk": 97.3,
+      "season_avg": 98.4,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "PHI",
+          "offense_snaps": 55,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "PHI",
+          "offense_snaps": 76,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 46,
+          "offense_pct": 92.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "PHI",
+          "offense_snaps": 61,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "PHI",
+          "offense_snaps": 62,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "15808",
