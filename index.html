@@ -801,14 +801,25 @@ fetch('data.json?' + Date.now())
                 : '#182235';
 
 
-          const trendText =
-            x.delta == null
-              ? '→'
-              : x.delta > 0
-                ? '↑ ' + x.delta.toFixed(1) + ' %'
-                : x.delta < 0
-                  ? '↓ ' + Math.abs(x.delta).toFixed(1) + ' %'
-                  : '→';
+          // Only show a trend when the player recorded snaps in the latest dashboard week.
+          // Otherwise hide the old change instead of displaying a stale percentage.
+          const currentWeekRecord = (x.history || []).find(
+            h => Number(h.week) === Number(D.week)
+          );
+          const currentWeekSnaps = !currentWeekRecord
+            ? 0
+            : x.unit === 'IDP'
+              ? Number(currentWeekRecord.defense_snaps || 0)
+              : Number(currentWeekRecord.offense_snaps || 0);
+          const hasCurrentWeekSnaps = currentWeekSnaps > 0;
+
+          const trendText = !hasCurrentWeekSnaps || x.delta == null
+            ? ''
+            : x.delta > 0
+              ? '↑ ' + x.delta.toFixed(1) + ' %'
+              : x.delta < 0
+                ? '↓ ' + Math.abs(x.delta).toFixed(1) + ' %'
+                : '→';
 
 
           return `
