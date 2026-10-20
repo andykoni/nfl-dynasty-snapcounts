@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-19T16:00:27Z",
+  "updated_at": "2026-10-20T08:11:40Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2138,11 +2138,11 @@
         },
         {
           "league": "EGS SIM",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         },
         {
           "league": "EGS SFX",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         }
       ],
       "pfr_id": "CrosJa00",
@@ -2938,16 +2938,11 @@
       "team": "PIT",
       "leagues": [
         "EGS PRO",
-        "EGS SIM",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
           "status": "ROSTER"
         },
         {
@@ -4154,96 +4149,6 @@
           "team": "HOU",
           "offense_snaps": 46,
           "offense_pct": 73.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "15779",
-      "player": "Romeo Doubs",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "NE",
-      "leagues": [
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "DoubRo00",
-      "snaps": 2,
-      "pct": 3.0,
-      "avg_3wk": 50.0,
-      "season_avg": 57.7,
-      "delta": -80.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NE",
-          "offense_snaps": 40,
-          "offense_pct": 56.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NE",
-          "offense_snaps": 37,
-          "offense_pct": 67.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NE",
-          "offense_snaps": 46,
-          "offense_pct": 73.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "NE",
-          "offense_snaps": 49,
-          "offense_pct": 64.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "NE",
-          "offense_snaps": 62,
-          "offense_pct": 83.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 6,
-          "team": "NE",
-          "offense_snaps": 2,
-          "offense_pct": 3.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -6188,6 +6093,96 @@
           "team": "PHI",
           "offense_snaps": 62,
           "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "15779",
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "NE",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "DoubRo00",
+      "snaps": 2,
+      "pct": 3.0,
+      "avg_3wk": 50.0,
+      "season_avg": 57.7,
+      "delta": -80.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NE",
+          "offense_snaps": 40,
+          "offense_pct": 56.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NE",
+          "offense_snaps": 37,
+          "offense_pct": 67.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "NE",
+          "offense_snaps": 46,
+          "offense_pct": 73.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "NE",
+          "offense_snaps": 49,
+          "offense_pct": 64.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "NE",
+          "offense_snaps": 62,
+          "offense_pct": 83.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 6,
+          "team": "NE",
+          "offense_snaps": 2,
+          "offense_pct": 3.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
