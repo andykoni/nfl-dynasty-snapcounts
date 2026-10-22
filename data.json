@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-21T14:14:17Z",
+  "updated_at": "2026-10-22T14:13:15Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2141,91 +2141,6 @@
       ]
     },
     {
-      "player_id": "17256",
-      "player": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "WAS",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "CrosJa00",
-      "snaps": 22,
-      "pct": 35.0,
-      "avg_3wk": 45.7,
-      "season_avg": 44.6,
-      "delta": -10.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "WAS",
-          "offense_snaps": 34,
-          "offense_pct": 49.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "WAS",
-          "offense_snaps": 26,
-          "offense_pct": 37.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "WAS",
-          "offense_snaps": 39,
-          "offense_pct": 57.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "WAS",
-          "offense_snaps": 29,
-          "offense_pct": 45.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "WAS",
-          "offense_snaps": 22,
-          "offense_pct": 35.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "16206",
       "player": "Michael Wilson",
       "position": "WR",
@@ -2826,81 +2741,6 @@
       ]
     },
     {
-      "player_id": "15880",
-      "player": "Akayleb Evans",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "CAR",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "EvanAk00",
-      "snaps": 63,
-      "pct": 98.0,
-      "avg_3wk": 80.3,
-      "season_avg": 66.0,
-      "delta": -2.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 13,
-          "st_pct": 35.0
-        },
-        {
-          "week": 2,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 16,
-          "defense_pct": 23.0,
-          "st_snaps": 18,
-          "st_pct": 75.0
-        },
-        {
-          "week": 3,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 30,
-          "defense_pct": 43.0,
-          "st_snaps": 17,
-          "st_pct": 63.0
-        },
-        {
-          "week": 4,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 71,
-          "defense_pct": 100.0,
-          "st_snaps": 6,
-          "st_pct": 20.0
-        },
-        {
-          "week": 6,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 63,
-          "defense_pct": 98.0,
-          "st_snaps": 3,
-          "st_pct": 10.0
-        }
-      ]
-    },
-    {
       "player_id": "16725",
       "player": "Malik Mustapha",
       "position": "S",
@@ -2982,96 +2822,6 @@
           "defense_pct": 100.0,
           "st_snaps": 3,
           "st_pct": 13.0
-        }
-      ]
-    },
-    {
-      "player_id": "17680",
-      "player": "Robert Spears-Jennings",
-      "position": "S",
-      "unit": "IDP",
-      "team": "PIT",
-      "leagues": [
-        "EGS PRO",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "SpeaRo01",
-      "snaps": 47,
-      "pct": 64.0,
-      "avg_3wk": 58.7,
-      "season_avg": 44.5,
-      "delta": 10.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 23,
-          "st_pct": 77.0
-        },
-        {
-          "week": 2,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 1,
-          "defense_pct": 2.0,
-          "st_snaps": 23,
-          "st_pct": 92.0
-        },
-        {
-          "week": 3,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 22,
-          "st_pct": 79.0
-        },
-        {
-          "week": 4,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 37,
-          "defense_pct": 58.0,
-          "st_snaps": 16,
-          "st_pct": 57.0
-        },
-        {
-          "week": 5,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 38,
-          "defense_pct": 54.0,
-          "st_snaps": 19,
-          "st_pct": 63.0
-        },
-        {
-          "week": 6,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 47,
-          "defense_pct": 64.0,
-          "st_snaps": 24,
-          "st_pct": 67.0
         }
       ]
     },
@@ -3306,6 +3056,246 @@
       ]
     },
     {
+      "player_id": "17624",
+      "player": "Will Lee",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "CAR",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LeexWi00",
+      "snaps": 64,
+      "pct": 100.0,
+      "avg_3wk": 97.0,
+      "season_avg": 76.2,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 36.0,
+          "st_snaps": 2,
+          "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 54.0,
+          "st_snaps": 7,
+          "st_pct": 29.0
+        },
+        {
+          "week": 3,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 91.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        },
+        {
+          "week": 4,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "16722",
+      "player": "Tyrice Knight",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "SEA",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "KnigTy00",
+      "snaps": 51,
+      "pct": 85.0,
+      "avg_3wk": 44.0,
+      "season_avg": 30.5,
+      "delta": 82.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 14,
+          "defense_pct": 20.0,
+          "st_snaps": 17,
+          "st_pct": 77.0
+        },
+        {
+          "week": 2,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 7,
+          "defense_pct": 14.0,
+          "st_snaps": 17,
+          "st_pct": 74.0
+        },
+        {
+          "week": 3,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 23,
+          "st_pct": 68.0
+        },
+        {
+          "week": 4,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 24,
+          "st_pct": 69.0
+        },
+        {
+          "week": 5,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 2,
+          "defense_pct": 3.0,
+          "st_snaps": 20,
+          "st_pct": 61.0
+        },
+        {
+          "week": 6,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 85.0,
+          "st_snaps": 4,
+          "st_pct": 15.0
+        }
+      ]
+    },
+    {
+      "player_id": "16633",
+      "player": "Jordan Whittington",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "LA",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WhitJo04",
+      "snaps": 8,
+      "pct": 14.0,
+      "avg_3wk": 25.7,
+      "season_avg": 28.4,
+      "delta": 1.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "LA",
+          "offense_snaps": 25,
+          "offense_pct": 41.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 13,
+          "st_pct": 65.0
+        },
+        {
+          "week": 3,
+          "team": "LA",
+          "offense_snaps": 21,
+          "offense_pct": 24.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        },
+        {
+          "week": 4,
+          "team": "LA",
+          "offense_snaps": 42,
+          "offense_pct": 50.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 21,
+          "st_pct": 70.0
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 11,
+          "offense_pct": 13.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 59.0
+        },
+        {
+          "week": 6,
+          "team": "LA",
+          "offense_snaps": 8,
+          "offense_pct": 14.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 16,
+          "st_pct": 67.0
+        }
+      ]
+    },
+    {
       "player_id": "17083",
       "player": "Jayden Higgins",
       "position": "WR",
@@ -3411,6 +3401,91 @@
       "delta": null,
       "trend": 0,
       "history": []
+    },
+    {
+      "player_id": "17256",
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "unit": "Offense",
+      "team": "WAS",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "CrosJa00",
+      "snaps": 22,
+      "pct": 35.0,
+      "avg_3wk": 45.7,
+      "season_avg": 44.6,
+      "delta": -10.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "WAS",
+          "offense_snaps": 34,
+          "offense_pct": 49.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "WAS",
+          "offense_snaps": 26,
+          "offense_pct": 37.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "WAS",
+          "offense_snaps": 39,
+          "offense_pct": 57.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "WAS",
+          "offense_snaps": 29,
+          "offense_pct": 45.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "WAS",
+          "offense_snaps": 22,
+          "offense_pct": 35.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "16654",
@@ -7650,11 +7725,16 @@
       "unit": "IDP",
       "team": "TEN",
       "leagues": [
-        "EGS SFX"
+        "EGS SFX",
+        "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -8528,81 +8608,6 @@
           "defense_pct": 32.0,
           "st_snaps": 16,
           "st_pct": 50.0
-        }
-      ]
-    },
-    {
-      "player_id": "16727",
-      "player": "Jaden Hicks",
-      "position": "S",
-      "unit": "IDP",
-      "team": "KC",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HickJa01",
-      "snaps": 35,
-      "pct": 51.0,
-      "avg_3wk": 62.0,
-      "season_avg": 77.2,
-      "delta": 16.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 51,
-          "defense_pct": 100.0,
-          "st_snaps": 7,
-          "st_pct": 25.0
-        },
-        {
-          "week": 2,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 65,
-          "defense_pct": 100.0,
-          "st_snaps": 8,
-          "st_pct": 24.0
-        },
-        {
-          "week": 3,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 73,
-          "defense_pct": 100.0,
-          "st_snaps": 3,
-          "st_pct": 17.0
-        },
-        {
-          "week": 4,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 29,
-          "defense_pct": 35.0,
-          "st_snaps": 19,
-          "st_pct": 59.0
-        },
-        {
-          "week": 6,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 35,
-          "defense_pct": 51.0,
-          "st_snaps": 8,
-          "st_pct": 33.0
         }
       ]
     },
