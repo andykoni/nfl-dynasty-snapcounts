@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-23T13:56:02Z",
+  "updated_at": "2026-10-24T12:59:52Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -7700,51 +7700,6 @@
           "defense_pct": 35.0,
           "st_snaps": 27,
           "st_pct": 93.0
-        }
-      ]
-    },
-    {
-      "player_id": "15717",
-      "player": "Dameon Pierce",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "PHI",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "PierDa01",
-      "snaps": 61,
-      "pct": 95.0,
-      "avg_3wk": 86.0,
-      "season_avg": 86.0,
-      "delta": 18.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 5,
-          "team": "PHI",
-          "offense_snaps": 48,
-          "offense_pct": 77.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 4,
-          "st_pct": 15.0
-        },
-        {
-          "week": 6,
-          "team": "PHI",
-          "offense_snaps": 61,
-          "offense_pct": 95.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
