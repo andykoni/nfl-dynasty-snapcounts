@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-24T12:59:52Z",
+  "updated_at": "2026-10-25T13:27:05Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1502,101 +1502,6 @@
           "defense_pct": 89.0,
           "st_snaps": 8,
           "st_pct": 28.0
-        }
-      ]
-    },
-    {
-      "player_id": "13697",
-      "player": "Tremaine Edmunds",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO",
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "EdmuTr01",
-      "snaps": 72,
-      "pct": 100.0,
-      "avg_3wk": 100.0,
-      "season_avg": 100.0,
-      "delta": 0.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 58,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 62,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 60,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 66,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 62,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 72,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
@@ -3488,6 +3393,101 @@
       ]
     },
     {
+      "player_id": "13697",
+      "player": "Tremaine Edmunds",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "EdmuTr01",
+      "snaps": 72,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 58,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 62,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 60,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 66,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 62,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 72,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "16654",
       "player": "Jonah Elliss",
       "position": "DE",
@@ -3505,7 +3505,7 @@
         },
         {
           "league": "EGS SFX",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         },
         {
           "league": "MLS Dynasty League",
@@ -6016,30 +6016,6 @@
       ]
     },
     {
-      "player_id": "16585",
-      "player": "Joe Milton",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MiltJo00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
       "player_id": "17096",
       "player": "Savion Williams",
       "position": "WR",
@@ -6109,6 +6085,110 @@
       "history": []
     },
     {
+      "player_id": "15890",
+      "player": "Micah McFadden",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "McFaMi01",
+      "snaps": 0,
+      "pct": null,
+      "avg_3wk": 3.0,
+      "season_avg": 3.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 11,
+          "st_pct": 58.0
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 16,
+          "st_pct": 70.0
+        },
+        {
+          "week": 4,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 20,
+          "st_pct": 69.0
+        },
+        {
+          "week": 5,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 2,
+          "defense_pct": 3.0,
+          "st_snaps": 21,
+          "st_pct": 64.0
+        },
+        {
+          "week": 6,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 25,
+          "st_pct": 71.0
+        }
+      ]
+    },
+    {
+      "player_id": "13806",
+      "player": "DeShon Elliott",
+      "position": "S",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ElliDe02",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -6153,30 +6233,6 @@
         }
       ],
       "pfr_id": "BensTr01",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "13806",
-      "player": "DeShon Elliott",
-      "position": "S",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "ElliDe02",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
@@ -7364,91 +7420,6 @@
       ]
     },
     {
-      "player_id": "17143",
-      "player": "Azareye'h Thomas",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "NYJ",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "ThomAz00",
-      "snaps": 68,
-      "pct": 100.0,
-      "avg_3wk": 100.0,
-      "season_avg": 100.0,
-      "delta": 0.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 59,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 65,
-          "defense_pct": 100.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 4,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 93,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 68,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 68,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "12626",
       "player": "Derrick Henry",
       "position": "RB",
@@ -7829,6 +7800,65 @@
       ]
     },
     {
+      "player_id": "15394",
+      "player": "Paulson Adebo",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "AdebPa00",
+      "snaps": 10,
+      "pct": 17.0,
+      "avg_3wk": 17.0,
+      "season_avg": 17.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 10,
+          "defense_pct": 17.0,
+          "st_snaps": 8,
+          "st_pct": 42.0
+        }
+      ]
+    },
+    {
+      "player_id": "16244",
+      "player": "Brian Branch",
+      "position": "S",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BranBr00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16215",
       "player": "Luke Musgrave",
       "position": "TE",
@@ -7851,65 +7881,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "16244",
-      "player": "Brian Branch",
-      "position": "S",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "BranBr00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "15394",
-      "player": "Paulson Adebo",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "AdebPa00",
-      "snaps": 10,
-      "pct": 17.0,
-      "avg_3wk": 17.0,
-      "season_avg": 17.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 17.0,
-          "st_snaps": 8,
-          "st_pct": 42.0
-        }
-      ]
     },
     {
       "player_id": "16627",
