@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-26T15:36:38Z",
+  "updated_at": "2026-10-27T15:00:57Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -891,11 +891,11 @@
         }
       ],
       "pfr_id": "DeJeCo00",
-      "snaps": 78,
-      "pct": 99.0,
-      "avg_3wk": 98.3,
-      "season_avg": 99.2,
-      "delta": -1.0,
+      "snaps": 68,
+      "pct": 100.0,
+      "avg_3wk": 99.7,
+      "season_avg": 99.3,
+      "delta": 1.0,
       "trend": 0,
       "history": [
         {
@@ -957,6 +957,16 @@
           "defense_pct": 99.0,
           "st_snaps": 6,
           "st_pct": 21.0
+        },
+        {
+          "week": 7,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 68,
+          "defense_pct": 100.0,
+          "st_snaps": 6,
+          "st_pct": 24.0
         }
       ]
     },
@@ -6411,11 +6421,11 @@
         }
       ],
       "pfr_id": "WoolTa00",
-      "snaps": 77,
-      "pct": 97.0,
-      "avg_3wk": 99.0,
-      "season_avg": 98.4,
-      "delta": -3.0,
+      "snaps": 67,
+      "pct": 99.0,
+      "avg_3wk": 98.7,
+      "season_avg": 98.5,
+      "delta": 2.0,
       "trend": 0,
       "history": [
         {
@@ -6467,6 +6477,16 @@
           "defense_pct": 97.0,
           "st_snaps": 6,
           "st_pct": 21.0
+        },
+        {
+          "week": 7,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 67,
+          "defense_pct": 99.0,
+          "st_snaps": 6,
+          "st_pct": 24.0
         }
       ]
     },
@@ -6486,17 +6506,27 @@
         }
       ],
       "pfr_id": "McKeTa01",
-      "snaps": 64,
+      "snaps": 66,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
-      "delta": null,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
           "week": 6,
           "team": "PHI",
           "offense_snaps": 64,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "PHI",
+          "offense_snaps": 66,
           "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
@@ -7583,11 +7613,11 @@
       ],
       "pfr_id": "WillQu00",
       "snaps": 38,
-      "pct": 51.0,
-      "avg_3wk": 63.0,
-      "season_avg": 68.5,
-      "delta": -18.0,
-      "trend": -1,
+      "pct": 58.0,
+      "avg_3wk": 59.3,
+      "season_avg": 67.0,
+      "delta": 7.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -7648,6 +7678,16 @@
           "defense_pct": 51.0,
           "st_snaps": 5,
           "st_pct": 24.0
+        },
+        {
+          "week": 7,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 38,
+          "defense_pct": 58.0,
+          "st_snaps": 3,
+          "st_pct": 12.0
         }
       ]
     },
@@ -8226,11 +8266,11 @@
         }
       ],
       "pfr_id": "TrotJe01",
-      "snaps": 28,
+      "snaps": 24,
       "pct": 35.0,
-      "avg_3wk": 67.5,
-      "season_avg": 47.7,
-      "delta": null,
+      "avg_3wk": 35.0,
+      "season_avg": 44.5,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
@@ -8292,6 +8332,16 @@
           "defense_pct": 35.0,
           "st_snaps": 27,
           "st_pct": 93.0
+        },
+        {
+          "week": 7,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 35.0,
+          "st_snaps": 22,
+          "st_pct": 88.0
         }
       ]
     },
