@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-27T15:00:57Z",
+  "updated_at": "2026-10-28T15:37:06Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -8346,141 +8346,6 @@
       ]
     },
     {
-      "player_id": "16014",
-      "player": "Tony Adams",
-      "position": "S",
-      "unit": "IDP",
-      "team": "TEN",
-      "leagues": [
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "AdamTo03",
-      "snaps": 9,
-      "pct": 13.0,
-      "avg_3wk": 67.7,
-      "season_avg": 40.7,
-      "delta": -80.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 4,
-          "defense_pct": 6.0,
-          "st_snaps": 9,
-          "st_pct": 33.0
-        },
-        {
-          "week": 2,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 26.0
-        },
-        {
-          "week": 3,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 12,
-          "defense_pct": 19.0,
-          "st_snaps": 11,
-          "st_pct": 48.0
-        },
-        {
-          "week": 4,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 16.0,
-          "st_snaps": 13,
-          "st_pct": 50.0
-        },
-        {
-          "week": 5,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 97.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 77,
-          "defense_pct": 93.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 9,
-          "defense_pct": 13.0,
-          "st_snaps": 6,
-          "st_pct": 22.0
-        }
-      ]
-    },
-    {
-      "player_id": "17654",
-      "player": "Cole Payton",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "PHI",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "PaytCo00",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 5,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 10,
-          "st_pct": 37.0
-        }
-      ]
-    },
-    {
       "player_id": "15394",
       "player": "Paulson Adebo",
       "position": "CB",
@@ -9656,6 +9521,101 @@
           "defense_pct": 64.0,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "16014",
+      "player": "Tony Adams",
+      "position": "S",
+      "unit": "IDP",
+      "team": "TEN",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "AdamTo03",
+      "snaps": 9,
+      "pct": 13.0,
+      "avg_3wk": 67.7,
+      "season_avg": 40.7,
+      "delta": -80.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 4,
+          "defense_pct": 6.0,
+          "st_snaps": 9,
+          "st_pct": 33.0
+        },
+        {
+          "week": 2,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 26.0
+        },
+        {
+          "week": 3,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 12,
+          "defense_pct": 19.0,
+          "st_snaps": 11,
+          "st_pct": 48.0
+        },
+        {
+          "week": 4,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 10,
+          "defense_pct": 16.0,
+          "st_snaps": 13,
+          "st_pct": 50.0
+        },
+        {
+          "week": 5,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 97.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 77,
+          "defense_pct": 93.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 9,
+          "defense_pct": 13.0,
+          "st_snaps": 6,
+          "st_pct": 22.0
         }
       ]
     },
