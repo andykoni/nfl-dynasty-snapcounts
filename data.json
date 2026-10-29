@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-28T15:37:06Z",
+  "updated_at": "2026-10-29T15:43:27Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -5616,91 +5616,6 @@
       ]
     },
     {
-      "player_id": "16257",
-      "player": "Felix Anudike-Uzomah",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "KC",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "AnudFe00",
-      "snaps": 38,
-      "pct": 55.0,
-      "avg_3wk": 55.3,
-      "season_avg": 51.3,
-      "delta": -5.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 55.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 29,
-          "defense_pct": 45.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 31,
-          "defense_pct": 42.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 51.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 41,
-          "defense_pct": 60.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 7,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 38,
-          "defense_pct": 55.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "15823",
       "player": "Christian Harris",
       "position": "LB",
@@ -6127,11 +6042,16 @@
       "unit": "Offense",
       "team": "NE",
       "leagues": [
-        "EGS SIM"
+        "EGS SIM",
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -6593,7 +6513,8 @@
       "team": "",
       "leagues": [
         "EGS SIM",
-        "EGS SFX"
+        "EGS SFX",
+        "MLS Dynasty League"
       ],
       "status": [
         {
@@ -6602,6 +6523,10 @@
         },
         {
           "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -7397,101 +7322,6 @@
           "defense_snaps": 68,
           "defense_pct": 99.0,
           "st_snaps": 4,
-          "st_pct": 21.0
-        }
-      ]
-    },
-    {
-      "player_id": "17080",
-      "player": "Jaylin Noel",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "HOU",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "NoelJa00",
-      "snaps": 19,
-      "pct": 31.0,
-      "avg_3wk": 41.7,
-      "season_avg": 43.3,
-      "delta": -18.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "HOU",
-          "offense_snaps": 24,
-          "offense_pct": 30.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 19.0
-        },
-        {
-          "week": 2,
-          "team": "HOU",
-          "offense_snaps": 48,
-          "offense_pct": 60.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 12,
-          "st_pct": 41.0
-        },
-        {
-          "week": 3,
-          "team": "HOU",
-          "offense_snaps": 14,
-          "offense_pct": 26.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 5,
-          "st_pct": 21.0
-        },
-        {
-          "week": 4,
-          "team": "HOU",
-          "offense_snaps": 34,
-          "offense_pct": 62.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 9,
-          "st_pct": 27.0
-        },
-        {
-          "week": 5,
-          "team": "HOU",
-          "offense_snaps": 30,
-          "offense_pct": 45.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 8,
-          "st_pct": 36.0
-        },
-        {
-          "week": 6,
-          "team": "HOU",
-          "offense_snaps": 31,
-          "offense_pct": 49.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 21.0
-        },
-        {
-          "week": 7,
-          "team": "HOU",
-          "offense_snaps": 19,
-          "offense_pct": 31.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
           "st_pct": 21.0
         }
       ]
@@ -8448,6 +8278,101 @@
       "delta": null,
       "trend": 0,
       "history": []
+    },
+    {
+      "player_id": "17080",
+      "player": "Jaylin Noel",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "HOU",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "NoelJa00",
+      "snaps": 19,
+      "pct": 31.0,
+      "avg_3wk": 41.7,
+      "season_avg": 43.3,
+      "delta": -18.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "HOU",
+          "offense_snaps": 24,
+          "offense_pct": 30.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 19.0
+        },
+        {
+          "week": 2,
+          "team": "HOU",
+          "offense_snaps": 48,
+          "offense_pct": 60.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 12,
+          "st_pct": 41.0
+        },
+        {
+          "week": 3,
+          "team": "HOU",
+          "offense_snaps": 14,
+          "offense_pct": 26.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 5,
+          "st_pct": 21.0
+        },
+        {
+          "week": 4,
+          "team": "HOU",
+          "offense_snaps": 34,
+          "offense_pct": 62.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 9,
+          "st_pct": 27.0
+        },
+        {
+          "week": 5,
+          "team": "HOU",
+          "offense_snaps": 30,
+          "offense_pct": 45.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 8,
+          "st_pct": 36.0
+        },
+        {
+          "week": 6,
+          "team": "HOU",
+          "offense_snaps": 31,
+          "offense_pct": 49.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        },
+        {
+          "week": 7,
+          "team": "HOU",
+          "offense_snaps": 19,
+          "offense_pct": 31.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        }
+      ]
     },
     {
       "player_id": "16627",
@@ -9521,101 +9446,6 @@
           "defense_pct": 64.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16014",
-      "player": "Tony Adams",
-      "position": "S",
-      "unit": "IDP",
-      "team": "TEN",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "AdamTo03",
-      "snaps": 9,
-      "pct": 13.0,
-      "avg_3wk": 67.7,
-      "season_avg": 40.7,
-      "delta": -80.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 4,
-          "defense_pct": 6.0,
-          "st_snaps": 9,
-          "st_pct": 33.0
-        },
-        {
-          "week": 2,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 26.0
-        },
-        {
-          "week": 3,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 12,
-          "defense_pct": 19.0,
-          "st_snaps": 11,
-          "st_pct": 48.0
-        },
-        {
-          "week": 4,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 16.0,
-          "st_snaps": 13,
-          "st_pct": 50.0
-        },
-        {
-          "week": 5,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 97.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 77,
-          "defense_pct": 93.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "TEN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 9,
-          "defense_pct": 13.0,
-          "st_snaps": 6,
-          "st_pct": 22.0
         }
       ]
     },
