@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated_at": "2026-11-02T18:58:13Z",
+  "updated_at": "2026-11-03T16:43:08Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -561,12 +561,12 @@
         }
       ],
       "pfr_id": "WilsEm00",
-      "snaps": 33,
-      "pct": 48.0,
-      "avg_3wk": 46.3,
+      "snaps": 0,
+      "pct": null,
+      "avg_3wk": 40.0,
       "season_avg": 40.3,
-      "delta": 16.0,
-      "trend": 1,
+      "delta": null,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -637,6 +637,16 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 7,
+          "st_pct": 25.0
         }
       ]
     },
@@ -3596,12 +3606,12 @@
         }
       ],
       "pfr_id": "KnigTy00",
-      "snaps": 37,
-      "pct": 70.0,
-      "avg_3wk": 52.7,
+      "snaps": 0,
+      "pct": null,
+      "avg_3wk": 77.5,
       "season_avg": 38.4,
-      "delta": -15.0,
-      "trend": -1,
+      "delta": null,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -3672,6 +3682,16 @@
           "defense_pct": 70.0,
           "st_snaps": 1,
           "st_pct": 5.0
+        },
+        {
+          "week": 8,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 15,
+          "st_pct": 54.0
         }
       ]
     },
@@ -4538,12 +4558,12 @@
         }
       ],
       "pfr_id": "PricJa02",
-      "snaps": 19,
-      "pct": 28.0,
+      "snaps": 30,
+      "pct": 48.0,
       "avg_3wk": 36.7,
-      "season_avg": 36.7,
-      "delta": -6.0,
-      "trend": -1,
+      "season_avg": 39.5,
+      "delta": 20.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -4570,6 +4590,16 @@
           "team": "SEA",
           "offense_snaps": 19,
           "offense_pct": 28.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "SEA",
+          "offense_snaps": 30,
+          "offense_pct": 48.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -4713,12 +4743,12 @@
         }
       ],
       "pfr_id": "ThomZa05",
-      "snaps": 5,
-      "pct": 7.0,
-      "avg_3wk": 14.0,
-      "season_avg": 11.0,
-      "delta": -6.0,
-      "trend": -1,
+      "snaps": 13,
+      "pct": 19.0,
+      "avg_3wk": 13.0,
+      "season_avg": 12.1,
+      "delta": 12.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -4789,6 +4819,16 @@
           "defense_pct": null,
           "st_snaps": 3,
           "st_pct": 11.0
+        },
+        {
+          "week": 8,
+          "team": "CHI",
+          "offense_snaps": 13,
+          "offense_pct": 19.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 7,
+          "st_pct": 25.0
         }
       ]
     },
@@ -4814,10 +4854,10 @@
       ],
       "pfr_id": "SweaMo00",
       "snaps": 43,
-      "pct": 70.0,
-      "avg_3wk": 71.7,
-      "season_avg": 69.4,
-      "delta": 1.0,
+      "pct": 68.0,
+      "avg_3wk": 69.0,
+      "season_avg": 69.2,
+      "delta": -2.0,
       "trend": 0,
       "history": [
         {
@@ -4867,6 +4907,16 @@
           "offense_pct": null,
           "defense_snaps": 43,
           "defense_pct": 70.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "CHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 68.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -6819,101 +6869,6 @@
           "defense_pct": 100.0,
           "st_snaps": 7,
           "st_pct": 27.0
-        }
-      ]
-    },
-    {
-      "player_id": "15894",
-      "player": "Tariq Woolen",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "PHI",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WoolTa00",
-      "snaps": 58,
-      "pct": 97.0,
-      "avg_3wk": 97.7,
-      "season_avg": 98.3,
-      "delta": -2.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 2,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 51,
-          "defense_pct": 96.0,
-          "st_snaps": 4,
-          "st_pct": 17.0
-        },
-        {
-          "week": 3,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 71,
-          "defense_pct": 99.0,
-          "st_snaps": 5,
-          "st_pct": 26.0
-        },
-        {
-          "week": 4,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 84,
-          "defense_pct": 100.0,
-          "st_snaps": 5,
-          "st_pct": 17.0
-        },
-        {
-          "week": 5,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 72,
-          "defense_pct": 100.0,
-          "st_snaps": 4,
-          "st_pct": 15.0
-        },
-        {
-          "week": 6,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 77,
-          "defense_pct": 97.0,
-          "st_snaps": 6,
-          "st_pct": 21.0
-        },
-        {
-          "week": 7,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 67,
-          "defense_pct": 99.0,
-          "st_snaps": 6,
-          "st_pct": 24.0
-        },
-        {
-          "week": 8,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 58,
-          "defense_pct": 97.0,
-          "st_snaps": 7,
-          "st_pct": 25.0
         }
       ]
     },
