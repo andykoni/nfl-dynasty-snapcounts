@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated_at": "2026-11-03T16:43:08Z",
+  "updated_at": "2026-11-04T16:40:41Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -7252,6 +7252,41 @@
       ]
     },
     {
+      "player_id": "14067",
+      "player": "Gardner Minshew",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "ARI",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MinsGa00",
+      "snaps": 34,
+      "pct": 42.0,
+      "avg_3wk": 42.0,
+      "season_avg": 42.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 8,
+          "team": "ARI",
+          "offense_snaps": 34,
+          "offense_pct": 42.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -9080,6 +9115,41 @@
           "team": "DEN",
           "offense_snaps": 44,
           "offense_pct": 71.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "15241",
+      "player": "Mac Jones",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "SF",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "JoneMa05",
+      "snaps": 8,
+      "pct": 15.0,
+      "avg_3wk": 15.0,
+      "season_avg": 15.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 2,
+          "team": "SF",
+          "offense_snaps": 8,
+          "offense_pct": 15.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
