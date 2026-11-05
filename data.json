@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated_at": "2026-11-04T16:40:41Z",
+  "updated_at": "2026-11-05T16:56:16Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -3211,116 +3211,6 @@
       ]
     },
     {
-      "player_id": "15461",
-      "player": "Roy Lopez",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "ARI",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "LopeRo00",
-      "snaps": 27,
-      "pct": 36.0,
-      "avg_3wk": 39.0,
-      "season_avg": 49.4,
-      "delta": -7.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 26,
-          "defense_pct": 47.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 71.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 34,
-          "defense_pct": 63.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 42.0,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 5,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 36,
-          "defense_pct": 55.0,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 6,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 22,
-          "defense_pct": 38.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 7,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 26,
-          "defense_pct": 43.0,
-          "st_snaps": 8,
-          "st_pct": 26.0
-        },
-        {
-          "week": 8,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 27,
-          "defense_pct": 36.0,
-          "st_snaps": 7,
-          "st_pct": 20.0
-        }
-      ]
-    },
-    {
       "player_id": "17350",
       "player": "Adin Huntington",
       "position": "DE",
@@ -3892,6 +3782,111 @@
           "defense_pct": 4.0,
           "st_snaps": 15,
           "st_pct": 71.0
+        }
+      ]
+    },
+    {
+      "player_id": "16344",
+      "player": "Dante Stills",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "ARI",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "StilDa01",
+      "snaps": 46,
+      "pct": 62.0,
+      "avg_3wk": 63.0,
+      "season_avg": 59.9,
+      "delta": -8.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 32,
+          "defense_pct": 58.0,
+          "st_snaps": 2,
+          "st_pct": 8.0
+        },
+        {
+          "week": 2,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 41,
+          "defense_pct": 59.0,
+          "st_snaps": 5,
+          "st_pct": 22.0
+        },
+        {
+          "week": 3,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 56.0,
+          "st_snaps": 6,
+          "st_pct": 19.0
+        },
+        {
+          "week": 4,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 64.0,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        },
+        {
+          "week": 5,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 53.0,
+          "st_snaps": 8,
+          "st_pct": 25.0
+        },
+        {
+          "week": 6,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 33,
+          "defense_pct": 57.0,
+          "st_snaps": 3,
+          "st_pct": 12.0
+        },
+        {
+          "week": 7,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 70.0,
+          "st_snaps": 8,
+          "st_pct": 26.0
+        },
+        {
+          "week": 8,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 46,
+          "defense_pct": 62.0,
+          "st_snaps": 7,
+          "st_pct": 20.0
         }
       ]
     },
@@ -6553,6 +6548,111 @@
       ]
     },
     {
+      "player_id": "15461",
+      "player": "Roy Lopez",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "ARI",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LopeRo00",
+      "snaps": 27,
+      "pct": 36.0,
+      "avg_3wk": 39.0,
+      "season_avg": 49.4,
+      "delta": -7.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 47.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 71.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 63.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 42.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 5,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 36,
+          "defense_pct": 55.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 6,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 22,
+          "defense_pct": 38.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        },
+        {
+          "week": 7,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 43.0,
+          "st_snaps": 8,
+          "st_pct": 26.0
+        },
+        {
+          "week": 8,
+          "team": "ARI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 36.0,
+          "st_snaps": 7,
+          "st_pct": 20.0
+        }
+      ]
+    },
+    {
       "player_id": "17269",
       "player": "Efton Chism",
       "position": "WR",
@@ -6995,16 +7095,11 @@
       "team": "",
       "leagues": [
         "EGS SIM",
-        "EGS SFX",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
           "status": "ROSTER"
         },
         {
@@ -7163,11 +7258,16 @@
       "unit": "Offense",
       "team": "DET",
       "leagues": [
-        "EGS SIM"
+        "EGS SIM",
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -8823,111 +8923,6 @@
       ]
     },
     {
-      "player_id": "16664",
-      "player": "Jeremiah Trotter Jr.",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "PHI",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "TrotJe01",
-      "snaps": 54,
-      "pct": 90.0,
-      "avg_3wk": 53.3,
-      "season_avg": 53.6,
-      "delta": 55.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 24,
-          "st_pct": 77.0
-        },
-        {
-          "week": 2,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 19,
-          "st_pct": 83.0
-        },
-        {
-          "week": 3,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 6,
-          "defense_pct": 8.0,
-          "st_snaps": 18,
-          "st_pct": 95.0
-        },
-        {
-          "week": 4,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 84,
-          "defense_pct": 100.0,
-          "st_snaps": 12,
-          "st_pct": 40.0
-        },
-        {
-          "week": 5,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 6,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 35.0,
-          "st_snaps": 27,
-          "st_pct": 93.0
-        },
-        {
-          "week": 7,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 35.0,
-          "st_snaps": 22,
-          "st_pct": 88.0
-        },
-        {
-          "week": 8,
-          "team": "PHI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 54,
-          "defense_pct": 90.0,
-          "st_snaps": 12,
-          "st_pct": 43.0
-        }
-      ]
-    },
-    {
       "player_id": "15394",
       "player": "Paulson Adebo",
       "position": "CB",
@@ -9012,111 +9007,6 @@
           "offense_pct": null,
           "defense_snaps": 23,
           "defense_pct": 43.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16619",
-      "player": "Troy Franklin",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "DEN",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "FranTr00",
-      "snaps": 44,
-      "pct": 71.0,
-      "avg_3wk": 56.3,
-      "season_avg": 44.0,
-      "delta": 25.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "DEN",
-          "offense_snaps": 17,
-          "offense_pct": 33.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "DEN",
-          "offense_snaps": 13,
-          "offense_pct": 21.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "DEN",
-          "offense_snaps": 12,
-          "offense_pct": 18.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "DEN",
-          "offense_snaps": 32,
-          "offense_pct": 48.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 2,
-          "st_pct": 8.0
-        },
-        {
-          "week": 5,
-          "team": "DEN",
-          "offense_snaps": 39,
-          "offense_pct": 63.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "DEN",
-          "offense_snaps": 31,
-          "offense_pct": 52.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "DEN",
-          "offense_snaps": 28,
-          "offense_pct": 46.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 8,
-          "team": "DEN",
-          "offense_snaps": 44,
-          "offense_pct": 71.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
         }
