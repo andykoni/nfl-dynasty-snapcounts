@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated_at": "2026-11-07T15:16:01Z",
+  "updated_at": "2026-11-08T15:40:01Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -3411,106 +3411,6 @@
       ]
     },
     {
-      "player_id": "17624",
-      "player": "Will Lee",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "CAR",
-      "leagues": [
-        "EGS PRO",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "LeexWi00",
-      "snaps": 21,
-      "pct": 30.0,
-      "avg_3wk": 76.7,
-      "season_avg": 73.0,
-      "delta": -70.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 27,
-          "defense_pct": 36.0,
-          "st_snaps": 2,
-          "st_pct": 5.0
-        },
-        {
-          "week": 2,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 37,
-          "defense_pct": 54.0,
-          "st_snaps": 7,
-          "st_pct": 29.0
-        },
-        {
-          "week": 3,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 91.0,
-          "st_snaps": 5,
-          "st_pct": 19.0
-        },
-        {
-          "week": 4,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 71,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 63,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 8,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 21,
-          "defense_pct": 30.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        }
-      ]
-    },
-    {
       "player_id": "16722",
       "player": "Tyrice Knight",
       "position": "LB",
@@ -3917,6 +3817,106 @@
           "defense_pct": 62.0,
           "st_snaps": 7,
           "st_pct": 20.0
+        }
+      ]
+    },
+    {
+      "player_id": "17624",
+      "player": "Will Lee",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "CAR",
+      "leagues": [
+        "EGS PRO",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LeexWi00",
+      "snaps": 21,
+      "pct": 30.0,
+      "avg_3wk": 76.7,
+      "season_avg": 73.0,
+      "delta": -70.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 36.0,
+          "st_snaps": 2,
+          "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 54.0,
+          "st_snaps": 7,
+          "st_pct": 29.0
+        },
+        {
+          "week": 3,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 91.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        },
+        {
+          "week": 4,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 63,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "CAR",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 21,
+          "defense_pct": 30.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
         }
       ]
     },
@@ -4633,116 +4633,6 @@
       ]
     },
     {
-      "player_id": "17601",
-      "player": "A.J. Haulcy",
-      "position": "S",
-      "unit": "IDP",
-      "team": "IND",
-      "leagues": [
-        "EGS PRO",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "TAXI_SQUAD"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HaulAJ00",
-      "snaps": 46,
-      "pct": 85.0,
-      "avg_3wk": 90.7,
-      "season_avg": 82.8,
-      "delta": -15.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 67,
-          "defense_pct": 99.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 37,
-          "defense_pct": 46.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 34,
-          "defense_pct": 63.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 57,
-          "defense_pct": 89.0,
-          "st_snaps": 2,
-          "st_pct": 7.0
-        },
-        {
-          "week": 5,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 56,
-          "defense_pct": 93.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 40,
-          "defense_pct": 87.0,
-          "st_snaps": 3,
-          "st_pct": 11.0
-        },
-        {
-          "week": 7,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 59,
-          "defense_pct": 100.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 8,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 46,
-          "defense_pct": 85.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        }
-      ]
-    },
-    {
       "player_id": "17521",
       "player": "Zavion Thomas",
       "position": "WR",
@@ -4854,6 +4744,116 @@
           "defense_pct": null,
           "st_snaps": 7,
           "st_pct": 25.0
+        }
+      ]
+    },
+    {
+      "player_id": "17601",
+      "player": "A.J. Haulcy",
+      "position": "S",
+      "unit": "IDP",
+      "team": "IND",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HaulAJ00",
+      "snaps": 46,
+      "pct": 85.0,
+      "avg_3wk": 90.7,
+      "season_avg": 82.8,
+      "delta": -15.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 67,
+          "defense_pct": 99.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 46.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 63.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 57,
+          "defense_pct": 89.0,
+          "st_snaps": 2,
+          "st_pct": 7.0
+        },
+        {
+          "week": 5,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 93.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 40,
+          "defense_pct": 87.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 7,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 100.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        },
+        {
+          "week": 8,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 46,
+          "defense_pct": 85.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
         }
       ]
     },
@@ -5322,91 +5322,6 @@
           "offense_pct": null,
           "defense_snaps": 69,
           "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "14137",
-      "player": "Noah Fant",
-      "position": "TE",
-      "unit": "Offense",
-      "team": "NO",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "FantNo00",
-      "snaps": 26,
-      "pct": 46.0,
-      "avg_3wk": 57.0,
-      "season_avg": 52.2,
-      "delta": -12.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NO",
-          "offense_snaps": 37,
-          "offense_pct": 41.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 7,
-          "st_pct": 21.0
-        },
-        {
-          "week": 2,
-          "team": "NO",
-          "offense_snaps": 30,
-          "offense_pct": 44.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NO",
-          "offense_snaps": 42,
-          "offense_pct": 57.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 2,
-          "st_pct": 7.0
-        },
-        {
-          "week": 5,
-          "team": "NO",
-          "offense_snaps": 30,
-          "offense_pct": 67.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 5,
-          "st_pct": 23.0
-        },
-        {
-          "week": 6,
-          "team": "NO",
-          "offense_snaps": 42,
-          "offense_pct": 58.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 3,
-          "st_pct": 9.0
-        },
-        {
-          "week": 7,
-          "team": "NO",
-          "offense_snaps": 26,
-          "offense_pct": 46.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -7417,6 +7332,35 @@
       ]
     },
     {
+      "player_id": "16692",
+      "player": "Jer'Zhan Newton",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "NewtJe00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -7461,35 +7405,6 @@
         }
       ],
       "pfr_id": "BensTr01",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "16692",
-      "player": "Jer'Zhan Newton",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS SIM",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "NewtJe00",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
