@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated_at": "2026-11-09T19:19:18Z",
+  "updated_at": "2026-11-10T16:40:34Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2231,11 +2231,11 @@
         }
       ],
       "pfr_id": "OlivEd00",
-      "snaps": 20,
-      "pct": 39.0,
-      "avg_3wk": 37.3,
-      "season_avg": 48.5,
-      "delta": 7.0,
+      "snaps": 28,
+      "pct": 58.0,
+      "avg_3wk": 43.0,
+      "season_avg": 50.4,
+      "delta": 19.0,
       "trend": 1,
       "history": [
         {
@@ -2275,6 +2275,16 @@
           "offense_pct": null,
           "defense_snaps": 20,
           "defense_pct": 39.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 58.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -6278,12 +6288,12 @@
         }
       ],
       "pfr_id": "WilsEr00",
-      "snaps": 71,
-      "pct": 99.0,
-      "avg_3wk": 94.7,
-      "season_avg": 94.3,
-      "delta": 7.0,
-      "trend": 1,
+      "snaps": 75,
+      "pct": 94.0,
+      "avg_3wk": 95.0,
+      "season_avg": 94.2,
+      "delta": -5.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -6354,79 +6364,14 @@
           "defense_pct": 99.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "13593",
-      "player": "Lamar Jackson",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "BAL",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "JackLa00",
-      "snaps": 1,
-      "pct": 2.0,
-      "avg_3wk": 51.3,
-      "season_avg": 70.8,
-      "delta": -50.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "BAL",
-          "offense_snaps": 68,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         },
         {
-          "week": 2,
-          "team": "BAL",
-          "offense_snaps": 58,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "BAL",
-          "offense_snaps": 64,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "BAL",
-          "offense_snaps": 33,
-          "offense_pct": 52.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 8,
-          "team": "BAL",
-          "offense_snaps": 1,
-          "offense_pct": 2.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
+          "week": 9,
+          "team": "MIN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 75,
+          "defense_pct": 94.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -7533,30 +7478,6 @@
       ]
     },
     {
-      "player_id": "16149",
-      "player": "Will Levis",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "LeviWi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
       "player_id": "15890",
       "player": "Micah McFadden",
       "position": "LB",
@@ -8112,6 +8033,81 @@
           "team": "NE",
           "offense_snaps": 2,
           "offense_pct": 3.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "13593",
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "BAL",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "JackLa00",
+      "snaps": 1,
+      "pct": 2.0,
+      "avg_3wk": 51.3,
+      "season_avg": 70.8,
+      "delta": -50.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "BAL",
+          "offense_snaps": 68,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "BAL",
+          "offense_snaps": 58,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "BAL",
+          "offense_snaps": 64,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "BAL",
+          "offense_snaps": 33,
+          "offense_pct": 52.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "BAL",
+          "offense_snaps": 1,
+          "offense_pct": 2.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
