@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated_at": "2026-11-10T16:40:34Z",
+  "updated_at": "2026-11-11T16:46:02Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2616,131 +2616,6 @@
       ]
     },
     {
-      "player_id": "16206",
-      "player": "Michael Wilson",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "ARI",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WilsMi02",
-      "snaps": 44,
-      "pct": 83.0,
-      "avg_3wk": 84.0,
-      "season_avg": 88.2,
-      "delta": 4.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "ARI",
-          "offense_snaps": 64,
-          "offense_pct": 85.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "ARI",
-          "offense_snaps": 47,
-          "offense_pct": 94.0,
-          "defense_snaps": 1,
-          "defense_pct": 1.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "ARI",
-          "offense_snaps": 81,
-          "offense_pct": 93.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "ARI",
-          "offense_snaps": 62,
-          "offense_pct": 94.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "ARI",
-          "offense_snaps": 61,
-          "offense_pct": 84.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 6,
-          "team": "ARI",
-          "offense_snaps": 66,
-          "offense_pct": 92.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "ARI",
-          "offense_snaps": 73,
-          "offense_pct": 90.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 8,
-          "team": "ARI",
-          "offense_snaps": 64,
-          "offense_pct": 79.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 9,
-          "team": "ARI",
-          "offense_snaps": 44,
-          "offense_pct": 83.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "14957",
       "player": "Amik Robertson",
       "position": "CB",
@@ -3776,111 +3651,6 @@
       ]
     },
     {
-      "player_id": "16633",
-      "player": "Jordan Whittington",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "LA",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WhitJo04",
-      "snaps": 4,
-      "pct": 5.0,
-      "avg_3wk": 11.0,
-      "season_avg": 21.9,
-      "delta": -2.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "LA",
-          "offense_snaps": 25,
-          "offense_pct": 41.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 13,
-          "st_pct": 65.0
-        },
-        {
-          "week": 3,
-          "team": "LA",
-          "offense_snaps": 21,
-          "offense_pct": 24.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 20.0
-        },
-        {
-          "week": 4,
-          "team": "LA",
-          "offense_snaps": 42,
-          "offense_pct": 50.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 21,
-          "st_pct": 70.0
-        },
-        {
-          "week": 5,
-          "team": "LA",
-          "offense_snaps": 11,
-          "offense_pct": 13.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 17,
-          "st_pct": 59.0
-        },
-        {
-          "week": 6,
-          "team": "LA",
-          "offense_snaps": 8,
-          "offense_pct": 14.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 16,
-          "st_pct": 67.0
-        },
-        {
-          "week": 7,
-          "team": "LA",
-          "offense_snaps": 15,
-          "offense_pct": 21.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 11,
-          "st_pct": 42.0
-        },
-        {
-          "week": 8,
-          "team": "LA",
-          "offense_snaps": 4,
-          "offense_pct": 7.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 18,
-          "st_pct": 72.0
-        },
-        {
-          "week": 9,
-          "team": "LA",
-          "offense_snaps": 4,
-          "offense_pct": 5.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 18,
-          "st_pct": 72.0
-        }
-      ]
-    },
-    {
       "player_id": "16314",
       "player": "SirVocea Dennis",
       "position": "LB",
@@ -4492,6 +4262,236 @@
           "offense_pct": null,
           "defense_snaps": 72,
           "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "16633",
+      "player": "Jordan Whittington",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "LA",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "WhitJo04",
+      "snaps": 4,
+      "pct": 5.0,
+      "avg_3wk": 11.0,
+      "season_avg": 21.9,
+      "delta": -2.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "LA",
+          "offense_snaps": 25,
+          "offense_pct": 41.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 13,
+          "st_pct": 65.0
+        },
+        {
+          "week": 3,
+          "team": "LA",
+          "offense_snaps": 21,
+          "offense_pct": 24.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        },
+        {
+          "week": 4,
+          "team": "LA",
+          "offense_snaps": 42,
+          "offense_pct": 50.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 21,
+          "st_pct": 70.0
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 11,
+          "offense_pct": 13.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 59.0
+        },
+        {
+          "week": 6,
+          "team": "LA",
+          "offense_snaps": 8,
+          "offense_pct": 14.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 16,
+          "st_pct": 67.0
+        },
+        {
+          "week": 7,
+          "team": "LA",
+          "offense_snaps": 15,
+          "offense_pct": 21.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 11,
+          "st_pct": 42.0
+        },
+        {
+          "week": 8,
+          "team": "LA",
+          "offense_snaps": 4,
+          "offense_pct": 7.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 18,
+          "st_pct": 72.0
+        },
+        {
+          "week": 9,
+          "team": "LA",
+          "offense_snaps": 4,
+          "offense_pct": 5.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 18,
+          "st_pct": 72.0
+        }
+      ]
+    },
+    {
+      "player_id": "16206",
+      "player": "Michael Wilson",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "ARI",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "WilsMi02",
+      "snaps": 44,
+      "pct": 83.0,
+      "avg_3wk": 84.0,
+      "season_avg": 88.2,
+      "delta": 4.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "ARI",
+          "offense_snaps": 64,
+          "offense_pct": 85.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "ARI",
+          "offense_snaps": 47,
+          "offense_pct": 94.0,
+          "defense_snaps": 1,
+          "defense_pct": 1.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "ARI",
+          "offense_snaps": 81,
+          "offense_pct": 93.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "ARI",
+          "offense_snaps": 62,
+          "offense_pct": 94.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "ARI",
+          "offense_snaps": 61,
+          "offense_pct": 84.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 6,
+          "team": "ARI",
+          "offense_snaps": 66,
+          "offense_pct": 92.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "ARI",
+          "offense_snaps": 73,
+          "offense_pct": 90.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "ARI",
+          "offense_snaps": 64,
+          "offense_pct": 79.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "ARI",
+          "offense_snaps": 44,
+          "offense_pct": 83.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -7738,51 +7738,6 @@
       ]
     },
     {
-      "player_id": "14067",
-      "player": "Gardner Minshew",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "ARI",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MinsGa00",
-      "snaps": 53,
-      "pct": 100.0,
-      "avg_3wk": 71.0,
-      "season_avg": 71.0,
-      "delta": 58.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 8,
-          "team": "ARI",
-          "offense_snaps": 34,
-          "offense_pct": 42.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 9,
-          "team": "ARI",
-          "offense_snaps": 53,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "16692",
       "player": "Jer'Zhan Newton",
       "position": "DT",
@@ -7821,6 +7776,125 @@
           "st_pct": null
         }
       ]
+    },
+    {
+      "player_id": "12140",
+      "player": "Jameis Winston",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "NYG",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WinsJa00",
+      "snaps": 16,
+      "pct": 24.0,
+      "avg_3wk": 30.7,
+      "season_avg": 67.7,
+      "delta": 16.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 51,
+          "offense_pct": 88.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 64,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "NYG",
+          "offense_snaps": 67,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "NYG",
+          "offense_snaps": 84,
+          "offense_pct": 94.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "NYG",
+          "offense_snaps": 46,
+          "offense_pct": 60.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "NYG",
+          "offense_snaps": 5,
+          "offense_pct": 8.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "NYG",
+          "offense_snaps": 16,
+          "offense_pct": 24.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "9207",
+      "player": "Josh Johnson",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "JohnJo05",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
     },
     {
       "player_id": "16622",
@@ -8108,6 +8182,51 @@
           "team": "BAL",
           "offense_snaps": 1,
           "offense_pct": 2.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "14067",
+      "player": "Gardner Minshew",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "ARI",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "MinsGa00",
+      "snaps": 53,
+      "pct": 100.0,
+      "avg_3wk": 71.0,
+      "season_avg": 71.0,
+      "delta": 58.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 8,
+          "team": "ARI",
+          "offense_snaps": 34,
+          "offense_pct": 42.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "ARI",
+          "offense_snaps": 53,
+          "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
