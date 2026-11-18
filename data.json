@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated_at": "2026-11-17T17:59:13Z",
+  "updated_at": "2026-11-18T17:40:54Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -8712,6 +8712,30 @@
       ]
     },
     {
+      "player_id": "11760",
+      "player": "Jimmy Garoppolo",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "GaroJi00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "16622",
       "player": "Ricky Pearsall",
       "position": "WR",
@@ -10750,6 +10774,121 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "17155",
+      "player": "Ashton Gillotte",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "KC",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "GillAs00",
+      "snaps": 54,
+      "pct": 75.0,
+      "avg_3wk": 71.0,
+      "season_avg": 53.9,
+      "delta": 5.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 14,
+          "defense_pct": 27.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 2,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 43.0,
+          "st_snaps": 7,
+          "st_pct": 21.0
+        },
+        {
+          "week": 3,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 48.0,
+          "st_snaps": 3,
+          "st_pct": 17.0
+        },
+        {
+          "week": 4,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 36,
+          "defense_pct": 43.0,
+          "st_snaps": 6,
+          "st_pct": 19.0
+        },
+        {
+          "week": 6,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 36,
+          "defense_pct": 53.0,
+          "st_snaps": 3,
+          "st_pct": 12.0
+        },
+        {
+          "week": 7,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 40,
+          "defense_pct": 58.0,
+          "st_snaps": 4,
+          "st_pct": 21.0
+        },
+        {
+          "week": 8,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 68.0,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        },
+        {
+          "week": 9,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 70.0,
+          "st_snaps": 5,
+          "st_pct": 17.0
+        },
+        {
+          "week": 10,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 54,
+          "defense_pct": 75.0,
+          "st_snaps": 4,
+          "st_pct": 12.0
         }
       ]
     },
