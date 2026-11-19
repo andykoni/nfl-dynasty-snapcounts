@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated_at": "2026-11-18T17:40:54Z",
+  "updated_at": "2026-11-19T17:50:17Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4066,136 +4066,6 @@
       ]
     },
     {
-      "player_id": "15364",
-      "player": "Andre Cisco",
-      "position": "S",
-      "unit": "IDP",
-      "team": "DET",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "CiscAn00",
-      "snaps": 5,
-      "pct": 8.0,
-      "avg_3wk": 10.5,
-      "season_avg": 41.1,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 44,
-          "defense_pct": 88.0,
-          "st_snaps": 13,
-          "st_pct": 48.0
-        },
-        {
-          "week": 2,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 59,
-          "defense_pct": 100.0,
-          "st_snaps": 7,
-          "st_pct": 24.0
-        },
-        {
-          "week": 3,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 65,
-          "defense_pct": 100.0,
-          "st_snaps": 3,
-          "st_pct": 13.0
-        },
-        {
-          "week": 4,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 3.0,
-          "st_snaps": 15,
-          "st_pct": 65.0
-        },
-        {
-          "week": 5,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 24,
-          "st_pct": 80.0
-        },
-        {
-          "week": 6,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 2,
-          "defense_pct": 3.0,
-          "st_snaps": 16,
-          "st_pct": 62.0
-        },
-        {
-          "week": 7,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 9,
-          "defense_pct": 14.0,
-          "st_snaps": 16,
-          "st_pct": 67.0
-        },
-        {
-          "week": 8,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 8,
-          "defense_pct": 13.0,
-          "st_snaps": 19,
-          "st_pct": 59.0
-        },
-        {
-          "week": 9,
-          "team": "NYJ",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 17,
-          "st_pct": 59.0
-        },
-        {
-          "week": 10,
-          "team": "DET",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 5,
-          "defense_pct": 8.0,
-          "st_snaps": 5,
-          "st_pct": 18.0
-        }
-      ]
-    },
-    {
       "player_id": "14472",
       "player": "Tyrel Dodson",
       "position": "LB",
@@ -4511,6 +4381,45 @@
       ]
     },
     {
+      "player_id": "15871",
+      "player": "Kerby Joseph",
+      "position": "S",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "JoseKe03",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
       "player_id": "17083",
       "player": "Jayden Higgins",
       "position": "WR",
@@ -4536,45 +4445,6 @@
         }
       ],
       "pfr_id": "HiggJa00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "15871",
-      "player": "Kerby Joseph",
-      "position": "S",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM",
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "JoseKe03",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
@@ -5144,7 +5014,7 @@
         },
         {
           "league": "MLS Dynasty League",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         }
       ],
       "pfr_id": "ElliJo03",
@@ -6644,6 +6514,131 @@
           "defense_pct": 82.0,
           "st_snaps": 2,
           "st_pct": 7.0
+        }
+      ]
+    },
+    {
+      "player_id": "15364",
+      "player": "Andre Cisco",
+      "position": "S",
+      "unit": "IDP",
+      "team": "DET",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "CiscAn00",
+      "snaps": 5,
+      "pct": 8.0,
+      "avg_3wk": 10.5,
+      "season_avg": 41.1,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 88.0,
+          "st_snaps": 13,
+          "st_pct": 48.0
+        },
+        {
+          "week": 2,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 100.0,
+          "st_snaps": 7,
+          "st_pct": 24.0
+        },
+        {
+          "week": 3,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 13.0
+        },
+        {
+          "week": 4,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 3.0,
+          "st_snaps": 15,
+          "st_pct": 65.0
+        },
+        {
+          "week": 5,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 24,
+          "st_pct": 80.0
+        },
+        {
+          "week": 6,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 2,
+          "defense_pct": 3.0,
+          "st_snaps": 16,
+          "st_pct": 62.0
+        },
+        {
+          "week": 7,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 9,
+          "defense_pct": 14.0,
+          "st_snaps": 16,
+          "st_pct": 67.0
+        },
+        {
+          "week": 8,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 8,
+          "defense_pct": 13.0,
+          "st_snaps": 19,
+          "st_pct": 59.0
+        },
+        {
+          "week": 9,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 59.0
+        },
+        {
+          "week": 10,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 5,
+          "defense_pct": 8.0,
+          "st_snaps": 5,
+          "st_pct": 18.0
         }
       ]
     },
@@ -8469,111 +8464,6 @@
           "defense_pct": 32.0,
           "st_snaps": 4,
           "st_pct": 15.0
-        }
-      ]
-    },
-    {
-      "player_id": "12140",
-      "player": "Jameis Winston",
-      "position": "QB",
-      "unit": "Offense",
-      "team": "NYG",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WinsJa00",
-      "snaps": 3,
-      "pct": 5.0,
-      "avg_3wk": 12.3,
-      "season_avg": 59.9,
-      "delta": -19.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 51,
-          "offense_pct": 88.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 64,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "NYG",
-          "offense_snaps": 67,
-          "offense_pct": 100.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "NYG",
-          "offense_snaps": 84,
-          "offense_pct": 94.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "NYG",
-          "offense_snaps": 46,
-          "offense_pct": 60.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "NYG",
-          "offense_snaps": 5,
-          "offense_pct": 8.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 9,
-          "team": "NYG",
-          "offense_snaps": 16,
-          "offense_pct": 24.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 10,
-          "team": "NYG",
-          "offense_snaps": 3,
-          "offense_pct": 5.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
